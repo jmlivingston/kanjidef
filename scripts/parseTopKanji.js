@@ -14,6 +14,15 @@ function hasFrequencyAtOrBelowThreshold(character) {
 	return typeof frequency === 'number' && frequency <= MAX_FREQUENCY;
 }
 
+function hasGradeAtOrBelowThreshold(character, maxGrade) {
+	const grade = character?.misc?.grade;
+	return typeof grade === 'number' && typeof maxGrade === 'number' && grade <= maxGrade;
+}
+
+function shouldIncludeCharacter(character, maxGrade) {
+	return hasFrequencyAtOrBelowThreshold(character) || hasGradeAtOrBelowThreshold(character, maxGrade);
+}
+
 function uniqueValues(values) {
 	return [...new Set(values)];
 }
@@ -87,7 +96,7 @@ async function main() {
 	);
 
 	const filteredCharacters = sourceCharacters
-		.filter(hasFrequencyAtOrBelowThreshold)
+		.filter((character) => shouldIncludeCharacter(character, highestGrade))
 		.map(transformCharacter);
 
 	const output = {
@@ -103,7 +112,7 @@ async function main() {
 	await writeFile(OUTPUT_PATH, `${JSON.stringify(output, null, 2)}\n`, 'utf8');
 
 	console.log(
-		`Wrote ${filteredCharacters.length} kanji with frequency <= ${MAX_FREQUENCY} to ${OUTPUT_PATH}`,
+		`Wrote ${filteredCharacters.length} kanji with frequency <= ${MAX_FREQUENCY} or grade <= ${highestGrade} to ${OUTPUT_PATH}`,
 	);
 }
 

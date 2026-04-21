@@ -1,6 +1,6 @@
 {
   "meta": {
-    "count": 2501,
+    "count": 3100,
     "highestFrequency": 2501,
     "highestGrade": 10
   },
@@ -23,6 +23,23 @@
         "rank next",
         "come after",
         "-ous"
+      ]
+    },
+    {
+      "literal": "娃",
+      "on": [
+        "ア",
+        "アイ",
+        "ワ"
+      ],
+      "kun": [
+        "うつく.しい"
+      ],
+      "nanori": [
+        "い"
+      ],
+      "meanings": [
+        "beautiful"
       ]
     },
     {
@@ -319,6 +336,24 @@
       ]
     },
     {
+      "literal": "斡",
+      "on": [
+        "アツ",
+        "カン",
+        "ワツ"
+      ],
+      "kun": [
+        "めぐ.る",
+        "めぐ.らす"
+      ],
+      "nanori": [],
+      "meanings": [
+        "go around",
+        "rule",
+        "administer"
+      ]
+    },
+    {
       "literal": "扱",
       "on": [
         "ソウ",
@@ -336,6 +371,24 @@
         "entertain",
         "thresh",
         "strip"
+      ]
+    },
+    {
+      "literal": "宛",
+      "on": [
+        "エン"
+      ],
+      "kun": [
+        "あ.てる",
+        "-あて",
+        "-づつ",
+        "あたか.も"
+      ],
+      "nanori": [],
+      "meanings": [
+        "address",
+        "just like",
+        "fortunately"
       ]
     },
     {
@@ -473,6 +526,22 @@
       "meanings": [
         "hermitage",
         "retreat"
+      ]
+    },
+    {
+      "literal": "按",
+      "on": [
+        "アン"
+      ],
+      "kun": [
+        "おさ.える",
+        "しら.べる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "hold",
+        "consider",
+        "investigate"
       ]
     },
     {
@@ -1002,6 +1071,25 @@
       ]
     },
     {
+      "literal": "萎",
+      "on": [
+        "イ"
+      ],
+      "kun": [
+        "な",
+        "しお.れる",
+        "しな.びる",
+        "しぼ.む",
+        "な.える"
+      ],
+      "nanori": [],
+      "meanings": [
+        "wither",
+        "droop",
+        "lame"
+      ]
+    },
+    {
       "literal": "衣",
       "on": [
         "イ",
@@ -1017,6 +1105,25 @@
         "garment",
         "clothes",
         "dressing"
+      ]
+    },
+    {
+      "literal": "謂",
+      "on": [
+        "イ"
+      ],
+      "kun": [
+        "い.う",
+        "いい",
+        "おも.う",
+        "いわゆる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "reason",
+        "origin",
+        "history",
+        "oral tradition"
       ]
     },
     {
@@ -1089,6 +1196,24 @@
         "well crib",
         "town",
         "community"
+      ]
+    },
+    {
+      "literal": "亥",
+      "on": [
+        "ガイ",
+        "カイ"
+      ],
+      "kun": [
+        "い"
+      ],
+      "nanori": [
+        "り"
+      ],
+      "meanings": [
+        "sign of the hog",
+        "9-11PM",
+        "twelfth sign of the Chinese zodiac"
       ]
     },
     {
@@ -1310,6 +1435,18 @@
       ]
     },
     {
+      "literal": "鰯",
+      "on": [],
+      "kun": [
+        "いわし"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sardine",
+        "(kokuji)"
+      ]
+    },
+    {
       "literal": "允",
       "on": [
         "イン"
@@ -1357,6 +1494,27 @@
         "evidence",
         "souvenir",
         "India"
+      ]
+    },
+    {
+      "literal": "咽",
+      "on": [
+        "イン",
+        "エン",
+        "エツ"
+      ],
+      "kun": [
+        "むせ.ぶ",
+        "むせ.る",
+        "のど",
+        "の.む"
+      ],
+      "nanori": [],
+      "meanings": [
+        "throat",
+        "choked",
+        "smothered",
+        "stuffy"
       ]
     },
     {
@@ -1448,6 +1606,43 @@
         "drink",
         "smoke",
         "take"
+      ]
+    },
+    {
+      "literal": "淫",
+      "on": [
+        "イン"
+      ],
+      "kun": [
+        "ひた.す",
+        "ほしいまま",
+        "みだ.ら",
+        "みだ.れる",
+        "みだり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "lewdness",
+        "licentiousness"
+      ]
+    },
+    {
+      "literal": "胤",
+      "on": [
+        "イン"
+      ],
+      "kun": [
+        "たね"
+      ],
+      "nanori": [
+        "つぎ",
+        "つぐ",
+        "かず"
+      ],
+      "meanings": [
+        "descendent",
+        "issue",
+        "offspring"
       ]
     },
     {
@@ -1608,6 +1803,17 @@
       ]
     },
     {
+      "literal": "迂",
+      "on": [
+        "ウ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "roundabout way"
+      ]
+    },
+    {
       "literal": "雨",
       "on": [
         "ウ"
@@ -1655,6 +1861,22 @@
       "nanori": [],
       "meanings": [
         "cormorant"
+      ]
+    },
+    {
+      "literal": "窺",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "うかが.う",
+        "のぞく"
+      ],
+      "nanori": [],
+      "meanings": [
+        "lie in wait",
+        "spy on",
+        "reconnoiter"
       ]
     },
     {
@@ -1754,6 +1976,37 @@
       ]
     },
     {
+      "literal": "姥",
+      "on": [
+        "ボ",
+        "モ"
+      ],
+      "kun": [
+        "うば"
+      ],
+      "nanori": [],
+      "meanings": [
+        "old woman"
+      ]
+    },
+    {
+      "literal": "厩",
+      "on": [
+        "キュウ"
+      ],
+      "kun": [
+        "うまや"
+      ],
+      "nanori": [
+        "まや",
+        "まら"
+      ],
+      "meanings": [
+        "barn",
+        "stable"
+      ]
+    },
+    {
       "literal": "浦",
       "on": [
         "ホ"
@@ -1788,6 +2041,20 @@
       ]
     },
     {
+      "literal": "閏",
+      "on": [
+        "ジュン"
+      ],
+      "kun": [
+        "うるう"
+      ],
+      "nanori": [],
+      "meanings": [
+        "intercalation",
+        "illegitimate throne"
+      ]
+    },
+    {
       "literal": "噂",
       "on": [
         "ソン"
@@ -1800,6 +2067,20 @@
         "rumor",
         "gossip",
         "hearsay"
+      ]
+    },
+    {
+      "literal": "云",
+      "on": [
+        "ウン"
+      ],
+      "kun": [
+        "い.う",
+        "ここに"
+      ],
+      "nanori": [],
+      "meanings": [
+        "say"
       ]
     },
     {
@@ -1879,6 +2160,20 @@
       ]
     },
     {
+      "literal": "叡",
+      "on": [
+        "エイ"
+      ],
+      "kun": [
+        "あき.らか"
+      ],
+      "nanori": [],
+      "meanings": [
+        "intelligence",
+        "imperial"
+      ]
+    },
+    {
       "literal": "営",
       "on": [
         "エイ"
@@ -1930,6 +2225,28 @@
         "reflect",
         "reflection",
         "projection"
+      ]
+    },
+    {
+      "literal": "曳",
+      "on": [
+        "エイ"
+      ],
+      "kun": [
+        "ひ.く"
+      ],
+      "nanori": [
+        "ひき",
+        "びき"
+      ],
+      "meanings": [
+        "pull",
+        "tug",
+        "jerk",
+        "admit",
+        "install",
+        "quote",
+        "refer to"
       ]
     },
     {
@@ -2173,6 +2490,18 @@
         "ecstasy",
         "joy",
         "rapture"
+      ]
+    },
+    {
+      "literal": "謁",
+      "on": [
+        "エツ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "audience",
+        "audience (with king)"
       ]
     },
     {
@@ -2557,6 +2886,24 @@
       ]
     },
     {
+      "literal": "薗",
+      "on": [
+        "エン",
+        "オン"
+      ],
+      "kun": [
+        "その"
+      ],
+      "nanori": [
+        "ぞの"
+      ],
+      "meanings": [
+        "garden",
+        "yard",
+        "farm"
+      ]
+    },
+    {
       "literal": "遠",
       "on": [
         "エン",
@@ -2642,6 +2989,22 @@
         "disgrace",
         "rape",
         "defile"
+      ]
+    },
+    {
+      "literal": "甥",
+      "on": [
+        "セイ",
+        "ソウ",
+        "ショウ"
+      ],
+      "kun": [
+        "おい",
+        "むこ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "nephew"
       ]
     },
     {
@@ -2890,6 +3253,20 @@
       ]
     },
     {
+      "literal": "襖",
+      "on": [
+        "オウ"
+      ],
+      "kun": [
+        "ふすま",
+        "あお"
+      ],
+      "nanori": [],
+      "meanings": [
+        "opaque sliding door"
+      ]
+    },
+    {
       "literal": "鴎",
       "on": [
         "オウ"
@@ -3011,6 +3388,25 @@
         "recollection",
         "think",
         "remember"
+      ]
+    },
+    {
+      "literal": "臆",
+      "on": [
+        "オク",
+        "ヨク"
+      ],
+      "kun": [
+        "むね",
+        "おくする"
+      ],
+      "nanori": [],
+      "meanings": [
+        "timidity",
+        "heart",
+        "mind",
+        "fear",
+        "cowardly"
       ]
     },
     {
@@ -3604,6 +4000,19 @@
       ]
     },
     {
+      "literal": "禾",
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "いね"
+      ],
+      "nanori": [],
+      "meanings": [
+        "two-branch tree radical (no. 115)"
+      ]
+    },
+    {
       "literal": "稼",
       "on": [
         "カ"
@@ -3616,6 +4025,18 @@
         "earnings",
         "work",
         "earn money"
+      ]
+    },
+    {
+      "literal": "箇",
+      "on": [
+        "カ",
+        "コ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "counter for articles"
       ]
     },
     {
@@ -3632,6 +4053,40 @@
       ],
       "meanings": [
         "flower"
+      ]
+    },
+    {
+      "literal": "苛",
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "いじ.める",
+        "さいな.む",
+        "いらだ.つ",
+        "からい",
+        "こまかい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "torment",
+        "scold",
+        "chastise"
+      ]
+    },
+    {
+      "literal": "茄",
+      "on": [
+        "カ"
+      ],
+      "kun": [],
+      "nanori": [
+        "な",
+        "か",
+        "なす"
+      ],
+      "meanings": [
+        "eggplant"
       ]
     },
     {
@@ -3728,6 +4183,20 @@
       ]
     },
     {
+      "literal": "嘩",
+      "on": [
+        "カ",
+        "ケ"
+      ],
+      "kun": [
+        "かまびす.しい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "noisy"
+      ]
+    },
+    {
       "literal": "貨",
       "on": [
         "カ"
@@ -3806,6 +4275,21 @@
       ]
     },
     {
+      "literal": "俄",
+      "on": [
+        "ガ"
+      ],
+      "kun": [
+        "にわか"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sudden",
+        "abrupt",
+        "improvised"
+      ]
+    },
+    {
       "literal": "峨",
       "on": [
         "ガ"
@@ -3878,6 +4362,23 @@
       "meanings": [
         "brush-stroke",
         "picture"
+      ]
+    },
+    {
+      "literal": "臥",
+      "on": [
+        "ガ"
+      ],
+      "kun": [
+        "ふせ.る",
+        "ふ.せる",
+        "ふ.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "bend down",
+        "bow",
+        "lie prostrate"
       ]
     },
     {
@@ -3954,6 +4455,26 @@
         "starve",
         "hungry",
         "thirst"
+      ]
+    },
+    {
+      "literal": "駕",
+      "on": [
+        "カ",
+        "ガ"
+      ],
+      "kun": [
+        "かご",
+        "が.する",
+        "しのぐ",
+        "のる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "vehicle",
+        "palanquin",
+        "litter",
+        "hitch up an animal"
       ]
     },
     {
@@ -4096,6 +4617,31 @@
       ]
     },
     {
+      "literal": "廻",
+      "on": [
+        "カイ",
+        "エ"
+      ],
+      "kun": [
+        "まわ.る",
+        "まわ.す",
+        "もとお.る",
+        "めぐ.る",
+        "めぐ.らす"
+      ],
+      "nanori": [
+        "ざこ",
+        "じゃく"
+      ],
+      "meanings": [
+        "round",
+        "game",
+        "revolve",
+        "go around",
+        "circumference"
+      ]
+    },
+    {
       "literal": "快",
       "on": [
         "カイ"
@@ -4144,6 +4690,22 @@
       "meanings": [
         "repent",
         "regret"
+      ]
+    },
+    {
+      "literal": "恢",
+      "on": [
+        "カイ",
+        "ケ"
+      ],
+      "kun": [
+        "ひろ.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "wide",
+        "large",
+        "enlarge"
       ]
     },
     {
@@ -4234,6 +4796,25 @@
       "nanori": [],
       "meanings": [
         "charging ahead of others"
+      ]
+    },
+    {
+      "literal": "晦",
+      "on": [
+        "カイ"
+      ],
+      "kun": [
+        "つごもり",
+        "くら.い",
+        "みそか",
+        "くら.む"
+      ],
+      "nanori": [
+        "もり"
+      ],
+      "meanings": [
+        "dark",
+        "disappear"
       ]
     },
     {
@@ -4492,6 +5073,25 @@
       ]
     },
     {
+      "literal": "崖",
+      "on": [
+        "ガイ",
+        "ゲ",
+        "ギ"
+      ],
+      "kun": [
+        "がけ",
+        "きし",
+        "はて"
+      ],
+      "nanori": [],
+      "meanings": [
+        "cliff",
+        "bluff",
+        "precipice"
+      ]
+    },
+    {
       "literal": "慨",
       "on": [
         "ガイ"
@@ -4589,6 +5189,53 @@
         "above-stated",
         "the said",
         "that specific"
+      ]
+    },
+    {
+      "literal": "鎧",
+      "on": [
+        "カイ",
+        "ガイ"
+      ],
+      "kun": [
+        "よろ.う",
+        "よろい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "put on armor",
+        "arm oneself"
+      ]
+    },
+    {
+      "literal": "骸",
+      "on": [
+        "ガイ",
+        "カイ"
+      ],
+      "kun": [
+        "むくろ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "bone",
+        "body",
+        "corpse"
+      ]
+    },
+    {
+      "literal": "浬",
+      "on": [
+        "リ"
+      ],
+      "kun": [
+        "かいり",
+        "のっと"
+      ],
+      "nanori": [],
+      "meanings": [
+        "knot",
+        "nautical mile"
       ]
     },
     {
@@ -5009,6 +5656,22 @@
       ]
     },
     {
+      "literal": "顎",
+      "on": [
+        "ガク"
+      ],
+      "kun": [
+        "あご",
+        "あぎと"
+      ],
+      "nanori": [],
+      "meanings": [
+        "jaw",
+        "chin",
+        "gill"
+      ]
+    },
+    {
       "literal": "掛",
       "on": [
         "カイ",
@@ -5145,6 +5808,24 @@
       ]
     },
     {
+      "literal": "恰",
+      "on": [
+        "コウ",
+        "カッ",
+        "チョウ",
+        "キョウ"
+      ],
+      "kun": [
+        "あたか.も"
+      ],
+      "nanori": [],
+      "meanings": [
+        "just as",
+        "as though",
+        "fortunately"
+      ]
+    },
+    {
       "literal": "括",
       "on": [
         "カツ"
@@ -5263,6 +5944,26 @@
       ]
     },
     {
+      "literal": "且",
+      "on": [
+        "ショ",
+        "ソ",
+        "ショウ"
+      ],
+      "kun": [
+        "か.つ"
+      ],
+      "nanori": [
+        "あき",
+        "かつ"
+      ],
+      "meanings": [
+        "moreover",
+        "also",
+        "furthermore"
+      ]
+    },
+    {
       "literal": "叶",
       "on": [
         "キョウ"
@@ -5278,6 +5979,21 @@
       "meanings": [
         "grant",
         "answer"
+      ]
+    },
+    {
+      "literal": "椛",
+      "on": [],
+      "kun": [
+        "かば",
+        "もみじ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "autumn foliage",
+        "birch",
+        "maple",
+        "(kokuji)"
       ]
     },
     {
@@ -5297,6 +6013,23 @@
       "meanings": [
         "birch",
         "dark red"
+      ]
+    },
+    {
+      "literal": "鞄",
+      "on": [
+        "ハク",
+        "ホウ",
+        "ビョウ"
+      ],
+      "kun": [
+        "かばん"
+      ],
+      "nanori": [],
+      "meanings": [
+        "suitcase",
+        "bag",
+        "briefcase"
       ]
     },
     {
@@ -5543,6 +6276,25 @@
         "drink up",
         "heaven",
         "emperor"
+      ]
+    },
+    {
+      "literal": "侃",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "つよ.い"
+      ],
+      "nanori": [
+        "あきら",
+        "ただし"
+      ],
+      "meanings": [
+        "strong",
+        "just",
+        "righteous",
+        "peace-loving"
       ]
     },
     {
@@ -5901,6 +6653,19 @@
       ]
     },
     {
+      "literal": "柑",
+      "on": [
+        "コン",
+        "カン"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "citrus",
+        "orange"
+      ]
+    },
+    {
       "literal": "棺",
       "on": [
         "カン"
@@ -6162,6 +6927,20 @@
       "nanori": [],
       "meanings": [
         "warship"
+      ]
+    },
+    {
+      "literal": "莞",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "smiling",
+        "reed used to cover tatami"
       ]
     },
     {
@@ -6624,6 +7403,22 @@
         "design",
         "attempt",
         "plan"
+      ]
+    },
+    {
+      "literal": "伎",
+      "on": [
+        "ギ",
+        "キ"
+      ],
+      "kun": [
+        "わざ",
+        "わざおぎ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "deed",
+        "skill"
       ]
     },
     {
@@ -7145,6 +7940,21 @@
       ]
     },
     {
+      "literal": "徽",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "しるし"
+      ],
+      "nanori": [],
+      "meanings": [
+        "good",
+        "beautiful",
+        "badge"
+      ]
+    },
+    {
       "literal": "規",
       "on": [
         "キ"
@@ -7524,6 +8334,21 @@
       ]
     },
     {
+      "literal": "誼",
+      "on": [
+        "ギ"
+      ],
+      "kun": [
+        "よしみ",
+        "よい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "friendship",
+        "intimacy"
+      ]
+    },
+    {
       "literal": "議",
       "on": [
         "ギ"
@@ -7541,6 +8366,23 @@
       ]
     },
     {
+      "literal": "掬",
+      "on": [
+        "キク",
+        "コク"
+      ],
+      "kun": [
+        "きく.す",
+        "むす.ぶ",
+        "すく.う",
+        "たなごころ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "scoop up water with the hand"
+      ]
+    },
+    {
       "literal": "菊",
       "on": [
         "キク"
@@ -7549,6 +8391,22 @@
       "nanori": [],
       "meanings": [
         "chrysanthemum"
+      ]
+    },
+    {
+      "literal": "鞠",
+      "on": [
+        "キク",
+        "キュウ"
+      ],
+      "kun": [
+        "まり"
+      ],
+      "nanori": [
+        "まい"
+      ],
+      "meanings": [
+        "ball"
       ]
     },
     {
@@ -7593,6 +8451,20 @@
       ]
     },
     {
+      "literal": "桔",
+      "on": [
+        "キツ",
+        "ケツ"
+      ],
+      "kun": [],
+      "nanori": [
+        "き"
+      ],
+      "meanings": [
+        "used in plant names"
+      ]
+    },
+    {
       "literal": "橘",
       "on": [
         "キツ"
@@ -7631,6 +8503,19 @@
         "reprove",
         "rebuke",
         "blame"
+      ]
+    },
+    {
+      "literal": "砧",
+      "on": [
+        "チン"
+      ],
+      "kun": [
+        "きぬた"
+      ],
+      "nanori": [],
+      "meanings": [
+        "fulling block"
       ]
     },
     {
@@ -7962,6 +8847,24 @@
       ]
     },
     {
+      "literal": "汲",
+      "on": [
+        "キュウ"
+      ],
+      "kun": [
+        "く.む"
+      ],
+      "nanori": [
+        "くみ"
+      ],
+      "meanings": [
+        "draw (water)",
+        "ladle",
+        "scoop",
+        "pump"
+      ]
+    },
+    {
       "literal": "泣",
       "on": [
         "キュウ"
@@ -7974,6 +8877,21 @@
         "cry",
         "weep",
         "moan"
+      ]
+    },
+    {
+      "literal": "灸",
+      "on": [
+        "キュウ",
+        "ク"
+      ],
+      "kun": [
+        "やいと"
+      ],
+      "nanori": [],
+      "meanings": [
+        "moxa cautery",
+        "chastisement"
       ]
     },
     {
@@ -8028,6 +8946,19 @@
         "suffer",
         "perplexed",
         "cornered"
+      ]
+    },
+    {
+      "literal": "笈",
+      "on": [
+        "キュウ"
+      ],
+      "kun": [],
+      "nanori": [
+        "おい"
+      ],
+      "meanings": [
+        "backpack bookcase"
       ]
     },
     {
@@ -8286,6 +9217,21 @@
         "long-distance",
         "spur",
         "fetlock"
+      ]
+    },
+    {
+      "literal": "鋸",
+      "on": [
+        "キョ",
+        "コ"
+      ],
+      "kun": [
+        "のこ",
+        "のこぎり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "saw (cuts wood)"
       ]
     },
     {
@@ -8868,6 +9814,19 @@
       ]
     },
     {
+      "literal": "蕎",
+      "on": [
+        "キョウ"
+      ],
+      "kun": [
+        "そば"
+      ],
+      "nanori": [],
+      "meanings": [
+        "buckwheat"
+      ]
+    },
+    {
       "literal": "郷",
       "on": [
         "キョウ",
@@ -9178,6 +10137,20 @@
       ]
     },
     {
+      "literal": "僅",
+      "on": [
+        "キン",
+        "ゴン"
+      ],
+      "kun": [
+        "わず.か"
+      ],
+      "nanori": [],
+      "meanings": [
+        "a wee bit"
+      ]
+    },
+    {
       "literal": "勤",
       "on": [
         "キン",
@@ -9213,6 +10186,25 @@
       ]
     },
     {
+      "literal": "巾",
+      "on": [
+        "キン",
+        "フク"
+      ],
+      "kun": [
+        "おお.い",
+        "ちきり",
+        "きれ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "towel",
+        "hanging scroll",
+        "width",
+        "cloth radical (no. 50)"
+      ]
+    },
+    {
       "literal": "錦",
       "on": [
         "キン"
@@ -9229,6 +10221,21 @@
         "brocade",
         "fine dress",
         "honors"
+      ]
+    },
+    {
+      "literal": "斤",
+      "on": [
+        "キン"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "axe",
+        "1.32 lb",
+        "catty",
+        "counter for loaves of bread",
+        "axe radical (no. 69)"
       ]
     },
     {
@@ -9300,6 +10307,22 @@
       ]
     },
     {
+      "literal": "禽",
+      "on": [
+        "キン"
+      ],
+      "kun": [
+        "とり",
+        "とりこ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "bird",
+        "captive",
+        "capture"
+      ]
+    },
+    {
       "literal": "筋",
       "on": [
         "キン"
@@ -9363,6 +10386,22 @@
         "germ",
         "fungus",
         "bacteria"
+      ]
+    },
+    {
+      "literal": "衿",
+      "on": [
+        "キン",
+        "コン"
+      ],
+      "kun": [
+        "えり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "neck",
+        "collar",
+        "lapel"
       ]
     },
     {
@@ -9539,6 +10578,23 @@
       ]
     },
     {
+      "literal": "玖",
+      "on": [
+        "キュウ",
+        "ク"
+      ],
+      "kun": [],
+      "nanori": [
+        "たま",
+        "き",
+        "ひさ"
+      ],
+      "meanings": [
+        "beautiful black jewel",
+        "nine"
+      ]
+    },
+    {
       "literal": "矩",
       "on": [
         "ク"
@@ -9601,6 +10657,22 @@
       ]
     },
     {
+      "literal": "駈",
+      "on": [
+        "ク"
+      ],
+      "kun": [
+        "か.ける",
+        "か.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "run",
+        "gallop",
+        "advance"
+      ]
+    },
+    {
       "literal": "駒",
       "on": [
         "ク"
@@ -9650,6 +10722,52 @@
         "folly",
         "absurdity",
         "stupid"
+      ]
+    },
+    {
+      "literal": "虞",
+      "on": [
+        "グ"
+      ],
+      "kun": [
+        "おそれ",
+        "おもんぱか.る",
+        "はか.る",
+        "うれ.える",
+        "あざむ.く",
+        "あやま.る",
+        "のぞ.む",
+        "たの.しむ"
+      ],
+      "nanori": [
+        "すけ",
+        "もち",
+        "やす"
+      ],
+      "meanings": [
+        "fear",
+        "uneasiness",
+        "anxiety",
+        "concern",
+        "expectation",
+        "consideration"
+      ]
+    },
+    {
+      "literal": "喰",
+      "on": [],
+      "kun": [
+        "く.う",
+        "く.らう"
+      ],
+      "nanori": [
+        "じき"
+      ],
+      "meanings": [
+        "eat",
+        "drink",
+        "receive (a blow)",
+        "(kokuji)"
       ]
     },
     {
@@ -9799,6 +10917,24 @@
       ]
     },
     {
+      "literal": "屑",
+      "on": [
+        "セツ"
+      ],
+      "kun": [
+        "くず",
+        "いさぎよ.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "rubbish",
+        "junk",
+        "trash",
+        "waste",
+        "scraps"
+      ]
+    },
+    {
       "literal": "屈",
       "on": [
         "クツ"
@@ -9832,6 +10968,36 @@
         "dig",
         "delve",
         "excavate"
+      ]
+    },
+    {
+      "literal": "窟",
+      "on": [
+        "クツ",
+        "コツ"
+      ],
+      "kun": [
+        "いわや",
+        "いはや",
+        "あな"
+      ],
+      "nanori": [],
+      "meanings": [
+        "cavern"
+      ]
+    },
+    {
+      "literal": "沓",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "くつ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "shoes",
+        "boots"
       ]
     },
     {
@@ -9948,6 +11114,21 @@
       ],
       "meanings": [
         "mulberry"
+      ]
+    },
+    {
+      "literal": "鍬",
+      "on": [
+        "ショウ",
+        "シュウ"
+      ],
+      "kun": [
+        "くわ",
+        "すき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "hoe with long blade at acute angle"
       ]
     },
     {
@@ -10093,6 +11274,31 @@
       "meanings": [
         "county",
         "district"
+      ]
+    },
+    {
+      "literal": "袈",
+      "on": [
+        "ケ",
+        "カ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "a coarse camlet"
+      ]
+    },
+    {
+      "literal": "祁",
+      "on": [
+        "キ",
+        "ケ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "intense",
+        "large"
       ]
     },
     {
@@ -10609,6 +11815,25 @@
       ]
     },
     {
+      "literal": "詣",
+      "on": [
+        "ケイ",
+        "ゲイ"
+      ],
+      "kun": [
+        "けい.する",
+        "まい.る",
+        "いた.る",
+        "もう.でる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "visit a temple",
+        "arrive",
+        "attain"
+      ]
+    },
+    {
       "literal": "警",
       "on": [
         "ケイ"
@@ -10738,6 +11963,20 @@
       ]
     },
     {
+      "literal": "戟",
+      "on": [
+        "ゲキ"
+      ],
+      "kun": [
+        "ほこ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "halbert",
+        "arms"
+      ]
+    },
+    {
       "literal": "撃",
       "on": [
         "ゲキ"
@@ -10768,6 +12007,44 @@
         "enraged",
         "chafe",
         "incite"
+      ]
+    },
+    {
+      "literal": "隙",
+      "on": [
+        "ゲキ",
+        "キャク",
+        "ケキ"
+      ],
+      "kun": [
+        "すき",
+        "す.く",
+        "す.かす",
+        "ひま"
+      ],
+      "nanori": [],
+      "meanings": [
+        "crevice",
+        "fissure",
+        "discord",
+        "opportunity",
+        "leisure"
+      ]
+    },
+    {
+      "literal": "桁",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "けた"
+      ],
+      "nanori": [],
+      "meanings": [
+        "beam",
+        "girder",
+        "spar",
+        "unit or column (accounting)"
       ]
     },
     {
@@ -10905,6 +12182,22 @@
       ]
     },
     {
+      "literal": "訣",
+      "on": [
+        "ケツ"
+      ],
+      "kun": [
+        "わかれ",
+        "わかれ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "separation",
+        "part",
+        "secret"
+      ]
+    },
+    {
       "literal": "月",
       "on": [
         "ゲツ",
@@ -10955,6 +12248,24 @@
         "frugal",
         "economy",
         "thrifty"
+      ]
+    },
+    {
+      "literal": "倦",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "あき.る",
+        "あぐ.む",
+        "あぐ.ねる",
+        "う.む",
+        "つか.れる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "lose interest in",
+        "tire of"
       ]
     },
     {
@@ -11169,6 +12480,30 @@
       ]
     },
     {
+      "literal": "捲",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "ま.く",
+        "ま.くる",
+        "まく.る",
+        "めく.る",
+        "まく.れる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "roll",
+        "wind",
+        "coil",
+        "turn pages",
+        "roll up sleeves",
+        "strip off",
+        "be turned",
+        "be rolled up"
+      ]
+    },
+    {
       "literal": "検",
       "on": [
         "ケン"
@@ -11198,6 +12533,22 @@
         "authority",
         "power",
         "rights"
+      ]
+    },
+    {
+      "literal": "牽",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "ひ.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pull",
+        "tug",
+        "drag",
+        "lead by hand"
       ]
     },
     {
@@ -11662,6 +13013,35 @@
       ]
     },
     {
+      "literal": "絃",
+      "on": [
+        "ゲン"
+      ],
+      "kun": [
+        "いと"
+      ],
+      "nanori": [],
+      "meanings": [
+        "string",
+        "cord",
+        "samisen music"
+      ]
+    },
+    {
+      "literal": "舷",
+      "on": [
+        "ゲン"
+      ],
+      "kun": [
+        "ふなばた",
+        "ふなべり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "gunwale"
+      ]
+    },
+    {
       "literal": "言",
       "on": [
         "ゲン",
@@ -11680,6 +13060,19 @@
       ]
     },
     {
+      "literal": "諺",
+      "on": [
+        "ゲン"
+      ],
+      "kun": [
+        "ことわざ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "proverb"
+      ]
+    },
+    {
       "literal": "限",
       "on": [
         "ゲン"
@@ -11694,6 +13087,26 @@
         "limit",
         "restrict",
         "to best of ability"
+      ]
+    },
+    {
+      "literal": "乎",
+      "on": [
+        "コ",
+        "オ"
+      ],
+      "kun": [
+        "か",
+        "ああ",
+        "かな",
+        "や",
+        "よ",
+        "を"
+      ],
+      "nanori": [],
+      "meanings": [
+        "question mark",
+        "?"
       ]
     },
     {
@@ -11925,6 +13338,23 @@
       ]
     },
     {
+      "literal": "糊",
+      "on": [
+        "コ",
+        "ゴ",
+        "コツ"
+      ],
+      "kun": [
+        "のり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "paste",
+        "glue",
+        "sizing"
+      ]
+    },
+    {
       "literal": "袴",
       "on": [
         "コ",
@@ -12003,6 +13433,25 @@
         "be proud",
         "pride",
         "triumphantly"
+      ]
+    },
+    {
+      "literal": "跨",
+      "on": [
+        "コ",
+        "カ"
+      ],
+      "kun": [
+        "また.がる",
+        "またが.る",
+        "また.ぐ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "be",
+        "sit or stand astride",
+        "extend over",
+        "straddle"
       ]
     },
     {
@@ -12241,6 +13690,46 @@
       ]
     },
     {
+      "literal": "梧",
+      "on": [
+        "ゴ"
+      ],
+      "kun": [
+        "あおぎり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "Chinese parasol tree",
+        "phoenix tree"
+      ]
+    },
+    {
+      "literal": "檎",
+      "on": [
+        "キン",
+        "ゴン",
+        "ゴ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "apple"
+      ]
+    },
+    {
+      "literal": "瑚",
+      "on": [
+        "コ",
+        "ゴ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "ancestral offering receptacle",
+        "coral"
+      ]
+    },
+    {
       "literal": "碁",
       "on": [
         "ゴ"
@@ -12298,6 +13787,18 @@
       "meanings": [
         "safeguard",
         "protect"
+      ]
+    },
+    {
+      "literal": "醐",
+      "on": [
+        "ゴ",
+        "コ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "boiled butter"
       ]
     },
     {
@@ -12387,6 +13888,21 @@
         "weather",
         "wait for",
         "expect"
+      ]
+    },
+    {
+      "literal": "倖",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "しあわ.せ",
+        "さいわ.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "happiness",
+        "luck"
       ]
     },
     {
@@ -12483,6 +13999,25 @@
         "efficacy",
         "efficiency",
         "benefit"
+      ]
+    },
+    {
+      "literal": "勾",
+      "on": [
+        "コウ",
+        "ク"
+      ],
+      "kun": [
+        "かぎ",
+        "ま.がる"
+      ],
+      "nanori": [
+        "まがり"
+      ],
+      "meanings": [
+        "be bent",
+        "slope",
+        "capture"
       ]
     },
     {
@@ -12785,6 +14320,20 @@
       ]
     },
     {
+      "literal": "庚",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "かのえ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "7th",
+        "7th calendar sign"
+      ]
+    },
+    {
       "literal": "康",
       "on": [
         "コウ"
@@ -12930,6 +14479,28 @@
       ]
     },
     {
+      "literal": "昂",
+      "on": [
+        "コウ",
+        "ゴウ"
+      ],
+      "kun": [
+        "あ.がる",
+        "たか.い",
+        "たか.ぶる"
+      ],
+      "nanori": [
+        "あき",
+        "あきら",
+        "たか",
+        "たかし",
+        "のぼる"
+      ],
+      "meanings": [
+        "rise"
+      ]
+    },
+    {
       "literal": "晃",
       "on": [
         "コウ"
@@ -13005,6 +14576,24 @@
         "printing",
         "proof",
         "correction"
+      ]
+    },
+    {
+      "literal": "梗",
+      "on": [
+        "コウ",
+        "キョウ"
+      ],
+      "kun": [
+        "ふさぐ",
+        "やまにれ",
+        "おおむね"
+      ],
+      "nanori": [],
+      "meanings": [
+        "for the most part",
+        "close up",
+        "flower stem"
       ]
     },
     {
@@ -13309,6 +14898,35 @@
       ]
     },
     {
+      "literal": "腔",
+      "on": [
+        "コウ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "body cavity"
+      ]
+    },
+    {
+      "literal": "膏",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "あぶら"
+      ],
+      "nanori": [],
+      "meanings": [
+        "fat",
+        "grease",
+        "lard",
+        "paste",
+        "ointment",
+        "plaster"
+      ]
+    },
+    {
       "literal": "航",
       "on": [
         "コウ"
@@ -13491,6 +15109,19 @@
       ]
     },
     {
+      "literal": "閤",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "くぐりど"
+      ],
+      "nanori": [],
+      "meanings": [
+        "small side gate"
+      ]
+    },
+    {
       "literal": "降",
       "on": [
         "コウ",
@@ -13623,6 +15254,22 @@
       "meanings": [
         "sturdy",
         "strength"
+      ]
+    },
+    {
+      "literal": "劫",
+      "on": [
+        "コウ",
+        "ゴウ",
+        "キョウ"
+      ],
+      "kun": [
+        "おびや.かす"
+      ],
+      "nanori": [],
+      "meanings": [
+        "threat",
+        "long ages"
       ]
     },
     {
@@ -13930,6 +15577,26 @@
       ]
     },
     {
+      "literal": "忽",
+      "on": [
+        "コツ"
+      ],
+      "kun": [
+        "たちま.ち",
+        "ゆるが.せ"
+      ],
+      "nanori": [
+        "ぬ"
+      ],
+      "meanings": [
+        "in a moment",
+        "instantly",
+        "all of a sudden",
+        "neglect",
+        "disregard"
+      ]
+    },
+    {
       "literal": "惚",
       "on": [
         "コツ"
@@ -14070,6 +15737,21 @@
       ]
     },
     {
+      "literal": "墾",
+      "on": [
+        "コン"
+      ],
+      "kun": [
+        "は.る",
+        "ひら.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "ground-breaking",
+        "open up farmland"
+      ]
+    },
+    {
       "literal": "婚",
       "on": [
         "コン"
@@ -14113,6 +15795,22 @@
         "courteous",
         "hospitable",
         "cordial"
+      ]
+    },
+    {
+      "literal": "昏",
+      "on": [
+        "コン"
+      ],
+      "kun": [
+        "くら.い",
+        "くれ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "dark",
+        "evening",
+        "dusk"
       ]
     },
     {
@@ -14205,6 +15903,23 @@
       ]
     },
     {
+      "literal": "些",
+      "on": [
+        "サ",
+        "シャ"
+      ],
+      "kun": [
+        "ち.と",
+        "ち.っと",
+        "いささか"
+      ],
+      "nanori": [],
+      "meanings": [
+        "a little bit",
+        "sometimes"
+      ]
+    },
+    {
       "literal": "佐",
       "on": [
         "サ"
@@ -14216,6 +15931,22 @@
       "meanings": [
         "assistant",
         "help"
+      ]
+    },
+    {
+      "literal": "叉",
+      "on": [
+        "サ",
+        "シャ",
+        "サイ"
+      ],
+      "kun": [
+        "また"
+      ],
+      "nanori": [],
+      "meanings": [
+        "fork in road",
+        "crotch"
       ]
     },
     {
@@ -14311,6 +16042,21 @@
       ]
     },
     {
+      "literal": "瑳",
+      "on": [
+        "サ"
+      ],
+      "kun": [
+        "みが.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "polish",
+        "brilliant white luster of a gem",
+        "artful smile"
+      ]
+    },
+    {
       "literal": "砂",
       "on": [
         "サ",
@@ -14357,6 +16103,18 @@
         "chain",
         "irons",
         "connection"
+      ]
+    },
+    {
+      "literal": "裟",
+      "on": [
+        "サ",
+        "シャ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "Buddhist surplice"
       ]
     },
     {
@@ -14475,6 +16233,50 @@
         "utmost",
         "most",
         "extreme"
+      ]
+    },
+    {
+      "literal": "哉",
+      "on": [
+        "サイ"
+      ],
+      "kun": [
+        "かな",
+        "や"
+      ],
+      "nanori": [
+        "か",
+        "すけ",
+        "とし",
+        "ちか",
+        "はじめ"
+      ],
+      "meanings": [
+        "how",
+        "what",
+        "alas",
+        "question mark",
+        "exclamation mark"
+      ]
+    },
+    {
+      "literal": "塞",
+      "on": [
+        "ソク",
+        "サイ"
+      ],
+      "kun": [
+        "ふさ.ぐ",
+        "とりで",
+        "み.ちる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "close",
+        "shut",
+        "cover",
+        "block",
+        "obstruct"
       ]
     },
     {
@@ -14636,6 +16438,25 @@
         "woe",
         "curse",
         "evil"
+      ]
+    },
+    {
+      "literal": "采",
+      "on": [
+        "サイ"
+      ],
+      "kun": [
+        "と.る",
+        "いろどり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "dice",
+        "form",
+        "appearance",
+        "take",
+        "gather",
+        "coloring"
       ]
     },
     {
@@ -15010,6 +16831,19 @@
       ]
     },
     {
+      "literal": "肴",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "さかな"
+      ],
+      "nanori": [],
+      "meanings": [
+        "accompaniment for drinks"
+      ]
+    },
+    {
       "literal": "咲",
       "on": [
         "ショウ"
@@ -15166,6 +17000,50 @@
       ]
     },
     {
+      "literal": "柵",
+      "on": [
+        "サク",
+        "サン"
+      ],
+      "kun": [
+        "しがら.む",
+        "しがらみ",
+        "とりで",
+        "やらい"
+      ],
+      "nanori": [
+        "ませ",
+        "やな"
+      ],
+      "meanings": [
+        "stockade",
+        "fence",
+        "weir",
+        "entwine around"
+      ]
+    },
+    {
+      "literal": "窄",
+      "on": [
+        "サク"
+      ],
+      "kun": [
+        "すぼ.める",
+        "つぼ.める",
+        "せま.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "narrow",
+        "fold",
+        "furl",
+        "shrug",
+        "pucker",
+        "shut",
+        "close"
+      ]
+    },
+    {
       "literal": "策",
       "on": [
         "サク"
@@ -15308,6 +17186,20 @@
       ]
     },
     {
+      "literal": "拶",
+      "on": [
+        "サツ"
+      ],
+      "kun": [
+        "せま.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "be imminent",
+        "draw close"
+      ]
+    },
+    {
       "literal": "撮",
       "on": [
         "サツ"
@@ -15437,6 +17329,22 @@
       ]
     },
     {
+      "literal": "錆",
+      "on": [
+        "ショウ",
+        "セイ"
+      ],
+      "kun": [
+        "さび",
+        "くわ.しい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "rust",
+        "tarnish"
+      ]
+    },
+    {
       "literal": "鮫",
       "on": [
         "コウ"
@@ -15463,6 +17371,24 @@
         "dish",
         "a helping",
         "plate"
+      ]
+    },
+    {
+      "literal": "晒",
+      "on": [
+        "サイ",
+        "シ"
+      ],
+      "kun": [
+        "さら.す",
+        "さらし"
+      ],
+      "nanori": [],
+      "meanings": [
+        "bleach",
+        "refine",
+        "expose",
+        "air"
       ]
     },
     {
@@ -15577,6 +17503,22 @@
       ]
     },
     {
+      "literal": "撒",
+      "on": [
+        "サン",
+        "サツ"
+      ],
+      "kun": [
+        "ま.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "scatter",
+        "sprinkle",
+        "give them the slip"
+      ]
+    },
+    {
       "literal": "散",
       "on": [
         "サン"
@@ -15622,6 +17564,37 @@
       ]
     },
     {
+      "literal": "燦",
+      "on": [
+        "サン"
+      ],
+      "kun": [
+        "さん.たる",
+        "あき.らか",
+        "きらめ.く",
+        "きら.めく"
+      ],
+      "nanori": [],
+      "meanings": [
+        "brilliant"
+      ]
+    },
+    {
+      "literal": "珊",
+      "on": [
+        "サン"
+      ],
+      "kun": [
+        "センチ",
+        "さんち"
+      ],
+      "nanori": [],
+      "meanings": [
+        "coral",
+        "centimeter"
+      ]
+    },
+    {
       "literal": "産",
       "on": [
         "サン"
@@ -15660,6 +17633,20 @@
         "number",
         "abacus",
         "probability"
+      ]
+    },
+    {
+      "literal": "纂",
+      "on": [
+        "サン"
+      ],
+      "kun": [
+        "あつ.める"
+      ],
+      "nanori": [],
+      "meanings": [
+        "editing",
+        "compiling"
       ]
     },
     {
@@ -15796,6 +17783,22 @@
         "doing",
         "official",
         "serve"
+      ]
+    },
+    {
+      "literal": "仔",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "こ",
+        "た.える"
+      ],
+      "nanori": [],
+      "meanings": [
+        "offspring (animal)",
+        "detailed",
+        "fine"
       ]
     },
     {
@@ -16178,6 +18181,27 @@
       "nanori": [],
       "meanings": [
         "industriousness"
+      ]
+    },
+    {
+      "literal": "斯",
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "か",
+        "こう",
+        "か.く",
+        "この",
+        "これ",
+        "ここに"
+      ],
+      "nanori": [],
+      "meanings": [
+        "this",
+        "thus",
+        "such",
+        "verbal pause"
       ]
     },
     {
@@ -16860,6 +18884,41 @@
       ]
     },
     {
+      "literal": "爾",
+      "on": [
+        "ジ",
+        "ニ"
+      ],
+      "kun": [
+        "なんじ",
+        "しかり",
+        "その",
+        "のみ",
+        "おれ",
+        "しか"
+      ],
+      "nanori": [
+        "ちか",
+        "み"
+      ],
+      "meanings": [
+        "you",
+        "thou",
+        "second person"
+      ]
+    },
+    {
+      "literal": "璽",
+      "on": [
+        "ジ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "emperor's seal"
+      ]
+    },
+    {
       "literal": "磁",
       "on": [
         "ジ"
@@ -16887,6 +18946,30 @@
         "point out",
         "express",
         "display"
+      ]
+    },
+    {
+      "literal": "而",
+      "on": [
+        "ジ",
+        "ニ"
+      ],
+      "kun": [
+        "しこ.うして",
+        "しか.して",
+        "しか.も",
+        "しか.れども",
+        "すなわち",
+        "なんじ",
+        "しかるに"
+      ],
+      "nanori": [],
+      "meanings": [
+        "and yet",
+        "and then",
+        "but",
+        "however",
+        "nevertheless"
       ]
     },
     {
@@ -17031,6 +19114,21 @@
         "discriminating",
         "know",
         "write"
+      ]
+    },
+    {
+      "literal": "竺",
+      "on": [
+        "ジク",
+        "チク",
+        "トク"
+      ],
+      "kun": [],
+      "nanori": [
+        "あつし"
+      ],
+      "meanings": [
+        "bamboo"
       ]
     },
     {
@@ -17186,6 +19284,32 @@
         "chamber",
         "greenhouse",
         "cellar"
+      ]
+    },
+    {
+      "literal": "悉",
+      "on": [
+        "シツ",
+        "シチ"
+      ],
+      "kun": [
+        "つ.きる",
+        "ことごと",
+        "ことごと.く",
+        "つ.くす",
+        "つぶさ.に"
+      ],
+      "nanori": [],
+      "meanings": [
+        "all",
+        "entirely",
+        "altogether",
+        "completely",
+        "use up",
+        "run out of",
+        "exhaust",
+        "befriend",
+        "serve"
       ]
     },
     {
@@ -17505,6 +19629,24 @@
       ]
     },
     {
+      "literal": "紗",
+      "on": [
+        "サ",
+        "シャ"
+      ],
+      "kun": [
+        "うすぎぬ"
+      ],
+      "nanori": [
+        "たえ",
+        "すず"
+      ],
+      "meanings": [
+        "gauze",
+        "gossamer"
+      ]
+    },
+    {
       "literal": "者",
       "on": [
         "シャ"
@@ -17618,6 +19760,19 @@
       ]
     },
     {
+      "literal": "勺",
+      "on": [
+        "シャク"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "ladle",
+        "one tenth of a go",
+        "dip"
+      ]
+    },
+    {
       "literal": "尺",
       "on": [
         "シャク",
@@ -17633,6 +19788,33 @@
         "measure",
         "scale",
         "rule"
+      ]
+    },
+    {
+      "literal": "灼",
+      "on": [
+        "シャク"
+      ],
+      "kun": [
+        "あらた",
+        "やく"
+      ],
+      "nanori": [],
+      "meanings": [
+        "miraculous"
+      ]
+    },
+    {
+      "literal": "爵",
+      "on": [
+        "シャク"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "baron",
+        "peerage",
+        "court rank"
       ]
     },
     {
@@ -17752,6 +19934,21 @@
       "meanings": [
         "weak",
         "frail"
+      ]
+    },
+    {
+      "literal": "惹",
+      "on": [
+        "ジャク",
+        "ジャ"
+      ],
+      "kun": [
+        "ひ.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "attract",
+        "captivate"
       ]
     },
     {
@@ -18486,6 +20683,21 @@
       ]
     },
     {
+      "literal": "蒐",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "あかね",
+        "あつ.まる",
+        "あつ.める"
+      ],
+      "nanori": [],
+      "meanings": [
+        "gather"
+      ]
+    },
+    {
       "literal": "衆",
       "on": [
         "シュウ",
@@ -18534,6 +20746,22 @@
       "nanori": [],
       "meanings": [
         "kick"
+      ]
+    },
+    {
+      "literal": "輯",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "あつ.める",
+        "やわ.らぐ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "gather",
+        "collect",
+        "compile"
       ]
     },
     {
@@ -19125,6 +21353,23 @@
       ]
     },
     {
+      "literal": "竣",
+      "on": [
+        "ドウ",
+        "シュン"
+      ],
+      "kun": [
+        "わらわ",
+        "わらべ",
+        "おわ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "end",
+        "finish"
+      ]
+    },
+    {
       "literal": "舜",
       "on": [
         "シュン"
@@ -19197,6 +21442,21 @@
         "decameron",
         "ten-day period",
         "season (for specific products)"
+      ]
+    },
+    {
+      "literal": "楯",
+      "on": [
+        "ジュン"
+      ],
+      "kun": [
+        "たて"
+      ],
+      "nanori": [],
+      "meanings": [
+        "shield",
+        "buckler",
+        "pretext"
       ]
     },
     {
@@ -19326,6 +21586,38 @@
         "patrol",
         "go around",
         "circumference"
+      ]
+    },
+    {
+      "literal": "遵",
+      "on": [
+        "ジュン"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "abide by",
+        "follow",
+        "obey",
+        "learn"
+      ]
+    },
+    {
+      "literal": "醇",
+      "on": [
+        "ジュン",
+        "シュン"
+      ],
+      "kun": [
+        "もっぱら",
+        "こい",
+        "あつい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pure sake",
+        "purity",
+        "affection"
       ]
     },
     {
@@ -19649,6 +21941,22 @@
       ]
     },
     {
+      "literal": "恕",
+      "on": [
+        "ジョ",
+        "ショ"
+      ],
+      "kun": [
+        "ゆる.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "excuse",
+        "tolerate",
+        "forgive"
+      ]
+    },
+    {
       "literal": "除",
       "on": [
         "ジョ",
@@ -19831,6 +22139,34 @@
         "recite",
         "call upon",
         "yell"
+      ]
+    },
+    {
+      "literal": "嘗",
+      "on": [
+        "ショウ",
+        "ジョウ"
+      ],
+      "kun": [
+        "かつ.て",
+        "こころ.みる",
+        "な.める"
+      ],
+      "nanori": [],
+      "meanings": [
+        "once",
+        "before",
+        "formerly",
+        "ever",
+        "never",
+        "ex-",
+        "lick",
+        "lap up",
+        "burn up",
+        "taste",
+        "undergo",
+        "underrate",
+        "despise"
       ]
     },
     {
@@ -20103,6 +22439,23 @@
       ]
     },
     {
+      "literal": "捷",
+      "on": [
+        "ショウ",
+        "ソウ"
+      ],
+      "kun": [
+        "はや.い"
+      ],
+      "nanori": [
+        "かつ"
+      ],
+      "meanings": [
+        "victory",
+        "fast"
+      ]
+    },
+    {
       "literal": "昇",
       "on": [
         "ショウ"
@@ -20195,6 +22548,21 @@
       ],
       "meanings": [
         "pine tree"
+      ]
+    },
+    {
+      "literal": "梢",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "こずえ",
+        "くすのき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "treetops",
+        "twig"
       ]
     },
     {
@@ -20539,6 +22907,17 @@
       ]
     },
     {
+      "literal": "菖",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "iris"
+      ]
+    },
+    {
       "literal": "蒋",
       "on": [
         "ショウ",
@@ -20583,6 +22962,20 @@
         "pierce",
         "stab",
         "prick"
+      ]
+    },
+    {
+      "literal": "裳",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "も",
+        "もすそ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "skirt"
       ]
     },
     {
@@ -20746,6 +23139,24 @@
       ]
     },
     {
+      "literal": "鞘",
+      "on": [
+        "ショウ",
+        "ソウ"
+      ],
+      "kun": [
+        "さや"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sheath",
+        "case",
+        "margin",
+        "difference",
+        "shells (of beans)"
+      ]
+    },
+    {
       "literal": "上",
       "on": [
         "ジョウ",
@@ -20811,6 +23222,23 @@
         "only",
         "that's all",
         "merely"
+      ]
+    },
+    {
+      "literal": "丞",
+      "on": [
+        "ジョウ",
+        "ショウ"
+      ],
+      "kun": [
+        "すく.う",
+        "たす.ける"
+      ],
+      "nanori": [
+        "すけ"
+      ],
+      "meanings": [
+        "help"
       ]
     },
     {
@@ -21260,6 +23688,21 @@
         "increase",
         "multiply",
         "raise"
+      ]
+    },
+    {
+      "literal": "燭",
+      "on": [
+        "ソク",
+        "ショク"
+      ],
+      "kun": [
+        "ともしび"
+      ],
+      "nanori": [],
+      "meanings": [
+        "light",
+        "candlepower"
       ]
     },
     {
@@ -22154,6 +24597,25 @@
       ]
     },
     {
+      "literal": "訊",
+      "on": [
+        "ジン",
+        "シュン",
+        "シン"
+      ],
+      "kun": [
+        "き.く",
+        "と.う",
+        "たず.ねる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "request",
+        "question",
+        "investigate"
+      ]
+    },
+    {
       "literal": "迅",
       "on": [
         "ジン"
@@ -22508,6 +24970,40 @@
       ]
     },
     {
+      "literal": "錐",
+      "on": [
+        "スイ"
+      ],
+      "kun": [
+        "きり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "auger",
+        "drill",
+        "awl",
+        "pyramid",
+        "cone"
+      ]
+    },
+    {
+      "literal": "錘",
+      "on": [
+        "スイ"
+      ],
+      "kun": [
+        "つむ",
+        "おもり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "weight",
+        "plumb bob",
+        "sinker",
+        "spindle"
+      ]
+    },
+    {
       "literal": "随",
       "on": [
         "ズイ"
@@ -22582,6 +25078,29 @@
         "respect",
         "revere",
         "worship"
+      ]
+    },
+    {
+      "literal": "嵩",
+      "on": [
+        "スウ",
+        "シュウ"
+      ],
+      "kun": [
+        "かさ",
+        "かさ.む",
+        "たか.い"
+      ],
+      "nanori": [
+        "たかし",
+        "たか",
+        "たけ"
+      ],
+      "meanings": [
+        "be aggravated",
+        "grow worse",
+        "grow bulky",
+        "swell"
       ]
     },
     {
@@ -22713,6 +25232,21 @@
       ]
     },
     {
+      "literal": "頗",
+      "on": [
+        "ハ"
+      ],
+      "kun": [
+        "すこぶ.る",
+        "かたよ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "prejudiced",
+        "exceedingly"
+      ]
+    },
+    {
       "literal": "雀",
       "on": [
         "ジャク",
@@ -22770,6 +25304,27 @@
         "settle",
         "strain",
         "look grave"
+      ]
+    },
+    {
+      "literal": "摺",
+      "on": [
+        "ショウ",
+        "シュウ",
+        "ロウ"
+      ],
+      "kun": [
+        "す.る",
+        "ひだ"
+      ],
+      "nanori": [
+        "する",
+        "ずり"
+      ],
+      "meanings": [
+        "rub",
+        "fold",
+        "print (on cloth)"
       ]
     },
     {
@@ -23088,6 +25643,42 @@
       ],
       "meanings": [
         "clear up"
+      ]
+    },
+    {
+      "literal": "棲",
+      "on": [
+        "セイ"
+      ],
+      "kun": [
+        "す.む"
+      ],
+      "nanori": [
+        "ずみ"
+      ],
+      "meanings": [
+        "live",
+        "dwell"
+      ]
+    },
+    {
+      "literal": "栖",
+      "on": [
+        "セイ"
+      ],
+      "kun": [
+        "す.む"
+      ],
+      "nanori": [
+        "す",
+        "すみ"
+      ],
+      "meanings": [
+        "nest",
+        "rookery",
+        "hive",
+        "cobweb",
+        "den"
       ]
     },
     {
@@ -23414,6 +26005,22 @@
       ]
     },
     {
+      "literal": "醒",
+      "on": [
+        "セイ"
+      ],
+      "kun": [
+        "さ.ます",
+        "さ.める"
+      ],
+      "nanori": [],
+      "meanings": [
+        "awake",
+        "be disillusioned",
+        "sober up"
+      ]
+    },
+    {
       "literal": "青",
       "on": [
         "セイ",
@@ -23539,6 +26146,23 @@
         "frugal",
         "stingy",
         "regret"
+      ]
+    },
+    {
+      "literal": "戚",
+      "on": [
+        "ソク",
+        "セキ"
+      ],
+      "kun": [
+        "いた.む",
+        "うれ.える",
+        "みうち"
+      ],
+      "nanori": [],
+      "meanings": [
+        "grieve",
+        "relatives"
       ]
     },
     {
@@ -23735,6 +26359,37 @@
         "mark",
         "print",
         "impression"
+      ]
+    },
+    {
+      "literal": "蹟",
+      "on": [
+        "セキ",
+        "シャク"
+      ],
+      "kun": [
+        "あと"
+      ],
+      "nanori": [],
+      "meanings": [
+        "remains",
+        "traces",
+        "footprint"
+      ]
+    },
+    {
+      "literal": "碩",
+      "on": [
+        "セキ"
+      ],
+      "kun": [
+        "おお.きい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "large",
+        "great",
+        "eminent"
       ]
     },
     {
@@ -24180,6 +26835,25 @@
       ]
     },
     {
+      "literal": "撰",
+      "on": [
+        "サン",
+        "セン"
+      ],
+      "kun": [
+        "せん.する",
+        "えら.む",
+        "えら.ぶ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "composing",
+        "editing",
+        "compiling",
+        "selecting"
+      ]
+    },
+    {
       "literal": "栓",
       "on": [
         "セン"
@@ -24335,6 +27009,23 @@
       ]
     },
     {
+      "literal": "穿",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "うが.つ",
+        "は.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "put on (to the feet)",
+        "dig",
+        "pierce",
+        "drill"
+      ]
+    },
+    {
       "literal": "線",
       "on": [
         "セン"
@@ -24359,6 +27050,35 @@
         "slender",
         "fine",
         "thin kimono"
+      ]
+    },
+    {
+      "literal": "羨",
+      "on": [
+        "セン",
+        "エン"
+      ],
+      "kun": [
+        "うらや.む",
+        "あまり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "envious",
+        "be jealous",
+        "covet"
+      ]
+    },
+    {
+      "literal": "腺",
+      "on": [
+        "セン"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "gland",
+        "(kokuji)"
       ]
     },
     {
@@ -24412,6 +27132,26 @@
         "advise",
         "encourage",
         "offer"
+      ]
+    },
+    {
+      "literal": "詮",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "せん.ずる",
+        "かい",
+        "あき.らか"
+      ],
+      "nanori": [
+        "あき"
+      ],
+      "meanings": [
+        "discussion",
+        "methods called for",
+        "selection",
+        "result"
       ]
     },
     {
@@ -24481,6 +27221,33 @@
         "coin",
         ".01 yen",
         "money"
+      ]
+    },
+    {
+      "literal": "銑",
+      "on": [
+        "セン"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "pig iron"
+      ]
+    },
+    {
+      "literal": "閃",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "ひらめ.く",
+        "ひらめ.き",
+        "うかが.う"
+      ],
+      "nanori": [],
+      "meanings": [
+        "flash",
+        "brandish"
       ]
     },
     {
@@ -24656,6 +27423,35 @@
       ]
     },
     {
+      "literal": "噌",
+      "on": [
+        "ソウ",
+        "ショウ",
+        "ソ"
+      ],
+      "kun": [
+        "かまびす.しい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "boisterous"
+      ]
+    },
+    {
+      "literal": "塑",
+      "on": [
+        "ソ"
+      ],
+      "kun": [
+        "でく"
+      ],
+      "nanori": [],
+      "meanings": [
+        "model",
+        "molding"
+      ]
+    },
+    {
       "literal": "措",
       "on": [
         "ソ"
@@ -24671,6 +27467,28 @@
         "discontinue",
         "lay aside",
         "except"
+      ]
+    },
+    {
+      "literal": "曾",
+      "on": [
+        "ソウ",
+        "ソ",
+        "ゾウ"
+      ],
+      "kun": [
+        "かつ.て",
+        "か.って",
+        "すなわち"
+      ],
+      "nanori": [],
+      "meanings": [
+        "once",
+        "before",
+        "formerly",
+        "ever",
+        "never",
+        "ex-"
       ]
     },
     {
@@ -24696,6 +27514,23 @@
       ]
     },
     {
+      "literal": "楚",
+      "on": [
+        "ソ",
+        "ショ"
+      ],
+      "kun": [
+        "いばら",
+        "しもと",
+        "すわえ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "whip",
+        "cane"
+      ]
+    },
+    {
       "literal": "狙",
       "on": [
         "ソ",
@@ -24711,6 +27546,31 @@
         "sight",
         "shadow",
         "stalk"
+      ]
+    },
+    {
+      "literal": "疏",
+      "on": [
+        "ソ",
+        "ショ"
+      ],
+      "kun": [
+        "あら.い",
+        "うと.い",
+        "うと.む",
+        "とお.る",
+        "とお.す",
+        "まばら"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pass through",
+        "note",
+        "commentary",
+        "estrangement",
+        "sparseness",
+        "neglect",
+        "penetrate"
       ]
     },
     {
@@ -24882,6 +27742,21 @@
         "obstruct",
         "deter",
         "impede"
+      ]
+    },
+    {
+      "literal": "遡",
+      "on": [
+        "ソ",
+        "サク"
+      ],
+      "kun": [
+        "さかのぼ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "go upstream",
+        "retrace the past"
       ]
     },
     {
@@ -25316,6 +28191,22 @@
         "contend",
         "dispute",
         "argue"
+      ]
+    },
+    {
+      "literal": "痩",
+      "on": [
+        "ソウ",
+        "チュウ",
+        "シュウ",
+        "シュ"
+      ],
+      "kun": [
+        "や.せる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "get thin"
       ]
     },
     {
@@ -26206,6 +29097,22 @@
       ]
     },
     {
+      "literal": "遜",
+      "on": [
+        "ソン"
+      ],
+      "kun": [
+        "したが.う",
+        "へりくだ.る",
+        "ゆず.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "humble",
+        "modest"
+      ]
+    },
+    {
       "literal": "他",
       "on": [
         "タ"
@@ -26256,6 +29163,42 @@
         "plump",
         "thick",
         "big around"
+      ]
+    },
+    {
+      "literal": "汰",
+      "on": [
+        "タ",
+        "タイ"
+      ],
+      "kun": [
+        "おご.る",
+        "にご.る",
+        "よな.げる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "washing",
+        "sieving",
+        "filtering",
+        "weeding out",
+        "luxury"
+      ]
+    },
+    {
+      "literal": "唾",
+      "on": [
+        "ダ",
+        "タ"
+      ],
+      "kun": [
+        "つば",
+        "つばき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "saliva",
+        "sputum"
       ]
     },
     {
@@ -26351,6 +29294,24 @@
       "nanori": [],
       "meanings": [
         "ellipse"
+      ]
+    },
+    {
+      "literal": "陀",
+      "on": [
+        "タ",
+        "ダ",
+        "イ",
+        "チ",
+        "ジ"
+      ],
+      "kun": [
+        "けわ.しい",
+        "ななめ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "steep"
       ]
     },
     {
@@ -26607,6 +29568,21 @@
       "meanings": [
         "womb",
         "uterus"
+      ]
+    },
+    {
+      "literal": "苔",
+      "on": [
+        "タイ"
+      ],
+      "kun": [
+        "こけ",
+        "こけら"
+      ],
+      "nanori": [],
+      "meanings": [
+        "moss",
+        "lichen"
       ]
     },
     {
@@ -26876,6 +29852,22 @@
       ]
     },
     {
+      "literal": "瀧",
+      "on": [
+        "ロウ",
+        "ソウ"
+      ],
+      "kun": [
+        "たき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "waterfall",
+        "rapids",
+        "cascade"
+      ]
+    },
+    {
       "literal": "卓",
       "on": [
         "タク"
@@ -26933,6 +29925,23 @@
         "residence",
         "our house",
         "my husband"
+      ]
+    },
+    {
+      "literal": "托",
+      "on": [
+        "タク"
+      ],
+      "kun": [
+        "たく.する",
+        "たの.む"
+      ],
+      "nanori": [],
+      "meanings": [
+        "requesting",
+        "entrusting with",
+        "pretend",
+        "hint"
       ]
     },
     {
@@ -27077,6 +30086,22 @@
         "consent",
         "assent",
         "agreement"
+      ]
+    },
+    {
+      "literal": "茸",
+      "on": [
+        "ジョウ",
+        "ニュ"
+      ],
+      "kun": [
+        "きのこ",
+        "たけ",
+        "しげ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "mushroom"
       ]
     },
     {
@@ -27256,6 +30281,21 @@
       ]
     },
     {
+      "literal": "辿",
+      "on": [
+        "テン"
+      ],
+      "kun": [
+        "たど.る",
+        "たどり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "follow (road)",
+        "pursue"
+      ]
+    },
+    {
       "literal": "棚",
       "on": [
         "ホウ"
@@ -27399,6 +30439,22 @@
       ]
     },
     {
+      "literal": "坦",
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "たいら"
+      ],
+      "nanori": [
+        "やす"
+      ],
+      "meanings": [
+        "level",
+        "wide"
+      ]
+    },
+    {
       "literal": "担",
       "on": [
         "タン"
@@ -27429,6 +30485,41 @@
         "grope",
         "search",
         "look for"
+      ]
+    },
+    {
+      "literal": "旦",
+      "on": [
+        "タン",
+        "ダン"
+      ],
+      "kun": [
+        "あき.らか",
+        "あきら",
+        "ただし",
+        "あさ",
+        "あした"
+      ],
+      "nanori": [],
+      "meanings": [
+        "daybreak",
+        "dawn",
+        "morning"
+      ]
+    },
+    {
+      "literal": "歎",
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "なげ.く",
+        "なげ.き"
+      ],
+      "nanori": [],
+      "meanings": [
+        "grief",
+        "lamentation"
       ]
     },
     {
@@ -27530,6 +30621,38 @@
         "border",
         "verge",
         "cape"
+      ]
+    },
+    {
+      "literal": "綻",
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "ほころ.びる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "be rent",
+        "ripped",
+        "unravel",
+        "run",
+        "begin to open",
+        "smile"
+      ]
+    },
+    {
+      "literal": "耽",
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "ふけ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "addicted",
+        "absorbed in"
       ]
     },
     {
@@ -27988,6 +31111,25 @@
       ]
     },
     {
+      "literal": "馳",
+      "on": [
+        "チ",
+        "ジ"
+      ],
+      "kun": [
+        "は.せる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "run",
+        "gallop",
+        "sail",
+        "drive (a wagon)",
+        "win (fame)",
+        "despatch"
+      ]
+    },
+    {
       "literal": "築",
       "on": [
         "チク"
@@ -28334,6 +31476,33 @@
       ]
     },
     {
+      "literal": "註",
+      "on": [
+        "チュウ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "notes",
+        "comment",
+        "annotate"
+      ]
+    },
+    {
+      "literal": "酎",
+      "on": [
+        "チュウ",
+        "チュ"
+      ],
+      "kun": [
+        "かも.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sake"
+      ]
+    },
+    {
       "literal": "鋳",
       "on": [
         "チュウ",
@@ -28479,6 +31648,22 @@
         "talk",
         "chat",
         "chatter"
+      ]
+    },
+    {
+      "literal": "寵",
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "めぐ.み",
+        "めぐ.む"
+      ],
+      "nanori": [],
+      "meanings": [
+        "affection",
+        "love",
+        "patronage"
       ]
     },
     {
@@ -28705,6 +31890,22 @@
       ]
     },
     {
+      "literal": "牒",
+      "on": [
+        "チョウ",
+        "ジョウ"
+      ],
+      "kun": [
+        "ふだ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "label",
+        "genealogy",
+        "circular"
+      ]
+    },
+    {
       "literal": "町",
       "on": [
         "チョウ"
@@ -28755,6 +31956,25 @@
         "headstrong",
         "naughty",
         "careful inquiry"
+      ]
+    },
+    {
+      "literal": "脹",
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "は.れる",
+        "ふく.らむ",
+        "ふく.れる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "dilate",
+        "distend",
+        "bulge",
+        "fill out",
+        "swell"
       ]
     },
     {
@@ -28965,6 +32185,20 @@
       ]
     },
     {
+      "literal": "捗",
+      "on": [
+        "チョク",
+        "ホ"
+      ],
+      "kun": [
+        "はかど.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "make progress"
+      ]
+    },
+    {
       "literal": "直",
       "on": [
         "チョク",
@@ -28991,6 +32225,18 @@
         "frankness",
         "fix",
         "repair"
+      ]
+    },
+    {
+      "literal": "朕",
+      "on": [
+        "チン"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "majestic plural",
+        "imperial we"
       ]
     },
     {
@@ -29290,6 +32536,24 @@
       ]
     },
     {
+      "literal": "柘",
+      "on": [
+        "シャ",
+        "ジャク"
+      ],
+      "kun": [
+        "そ",
+        "つげ",
+        "やまぐわ"
+      ],
+      "nanori": [
+        "つ"
+      ],
+      "meanings": [
+        "wild mulberry"
+      ]
+    },
+    {
       "literal": "辻",
       "on": [],
       "kun": [
@@ -29358,6 +32622,25 @@
       ]
     },
     {
+      "literal": "潰",
+      "on": [
+        "カイ",
+        "エ"
+      ],
+      "kun": [
+        "つぶ.す",
+        "つぶ.れる",
+        "つい.える"
+      ],
+      "nanori": [],
+      "meanings": [
+        "crush",
+        "smash",
+        "break",
+        "dissipate"
+      ]
+    },
+    {
       "literal": "坪",
       "on": [
         "ヘイ"
@@ -29385,6 +32668,20 @@
         "pot",
         "hinge knuckle",
         "one's aim"
+      ]
+    },
+    {
+      "literal": "紬",
+      "on": [
+        "チュウ"
+      ],
+      "kun": [
+        "つむぎ",
+        "つむ.ぐ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pongee (a knotted silk cloth)"
       ]
     },
     {
@@ -29777,6 +33074,24 @@
       ]
     },
     {
+      "literal": "汀",
+      "on": [
+        "テイ"
+      ],
+      "kun": [
+        "みぎわ",
+        "なぎさ"
+      ],
+      "nanori": [
+        "て"
+      ],
+      "meanings": [
+        "water's edge",
+        "shore",
+        "bank"
+      ]
+    },
+    {
       "literal": "禎",
       "on": [
         "テイ"
@@ -29962,6 +33277,19 @@
       ]
     },
     {
+      "literal": "鼎",
+      "on": [
+        "テイ"
+      ],
+      "kun": [
+        "かなえ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "three legged kettle"
+      ]
+    },
+    {
       "literal": "泥",
       "on": [
         "デイ",
@@ -30001,6 +33329,24 @@
         "trim",
         "clip",
         "summarize"
+      ]
+    },
+    {
+      "literal": "擢",
+      "on": [
+        "テキ",
+        "タク"
+      ],
+      "kun": [
+        "ぬ.く",
+        "ぬき.んでる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "excel in",
+        "surpass",
+        "pull out",
+        "select"
       ]
     },
     {
@@ -30090,6 +33436,23 @@
         "rare",
         "qualified",
         "capable"
+      ]
+    },
+    {
+      "literal": "溺",
+      "on": [
+        "デキ",
+        "ジョウ",
+        "ニョウ"
+      ],
+      "kun": [
+        "いばり",
+        "おぼ.れる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "drown",
+        "indulge"
       ]
     },
     {
@@ -30301,6 +33664,28 @@
       ]
     },
     {
+      "literal": "纏",
+      "on": [
+        "テン",
+        "デン"
+      ],
+      "kun": [
+        "まつ.わる",
+        "まと.う",
+        "まと.める",
+        "まと.まる",
+        "まと.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "wear",
+        "wrap",
+        "tie",
+        "follow around",
+        "collect"
+      ]
+    },
+    {
       "literal": "貼",
       "on": [
         "テン",
@@ -30446,6 +33831,21 @@
       ]
     },
     {
+      "literal": "兎",
+      "on": [
+        "ト",
+        "ツ"
+      ],
+      "kun": [
+        "うさぎ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "rabbit",
+        "hare"
+      ]
+    },
+    {
       "literal": "吐",
       "on": [
         "ト"
@@ -30461,6 +33861,21 @@
         "belch",
         "confess",
         "tell (lies)"
+      ]
+    },
+    {
+      "literal": "堵",
+      "on": [
+        "ト"
+      ],
+      "kun": [
+        "かき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "fence",
+        "railing",
+        "enclosure"
       ]
     },
     {
@@ -30480,6 +33895,24 @@
         "daub",
         "smear",
         "coating"
+      ]
+    },
+    {
+      "literal": "妬",
+      "on": [
+        "ト",
+        "ツ"
+      ],
+      "kun": [
+        "ねた.む",
+        "そね.む",
+        "つも.る",
+        "ふさ.ぐ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "jealous",
+        "envy"
       ]
     },
     {
@@ -30647,6 +34080,26 @@
         "capital",
         "all",
         "everything"
+      ]
+    },
+    {
+      "literal": "砥",
+      "on": [
+        "シ",
+        "テイ",
+        "キイ",
+        "チ"
+      ],
+      "kun": [
+        "と",
+        "といし",
+        "と.ぐ",
+        "みが.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "whetstone",
+        "grindstone"
       ]
     },
     {
@@ -30865,6 +34318,21 @@
         "pagoda",
         "tower",
         "steeple"
+      ]
+    },
+    {
+      "literal": "套",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "かさ.ねる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "accumulate",
+        "big and long",
+        "hackneyed"
       ]
     },
     {
@@ -31118,6 +34586,33 @@
       ]
     },
     {
+      "literal": "痘",
+      "on": [
+        "トウ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "pox",
+        "smallpox"
+      ]
+    },
+    {
+      "literal": "祷",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "いの.る",
+        "いの.り",
+        "まつ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pray"
+      ]
+    },
+    {
       "literal": "等",
       "on": [
         "トウ"
@@ -31219,6 +34714,19 @@
         "reach",
         "attain",
         "result in"
+      ]
+    },
+    {
+      "literal": "董",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "ただ.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "correct"
       ]
     },
     {
@@ -31524,6 +35032,24 @@
       ]
     },
     {
+      "literal": "撞",
+      "on": [
+        "ドウ",
+        "トウ",
+        "シュ"
+      ],
+      "kun": [
+        "つ.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "thrust",
+        "pierce",
+        "stab",
+        "prick"
+      ]
+    },
+    {
       "literal": "洞",
       "on": [
         "ドウ"
@@ -31584,6 +35110,19 @@
         "torso",
         "hull (ship)",
         "hub of wheel"
+      ]
+    },
+    {
+      "literal": "萄",
+      "on": [
+        "ドウ",
+        "トウ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "grape vine",
+        "wild grape"
       ]
     },
     {
@@ -31872,6 +35411,22 @@
       ]
     },
     {
+      "literal": "鳶",
+      "on": [
+        "エン"
+      ],
+      "kun": [
+        "とび",
+        "とんび"
+      ],
+      "nanori": [],
+      "meanings": [
+        "black kite",
+        "fireman",
+        "hook"
+      ]
+    },
+    {
       "literal": "苫",
       "on": [
         "セン"
@@ -31986,6 +35541,19 @@
       ]
     },
     {
+      "literal": "沌",
+      "on": [
+        "トン"
+      ],
+      "kun": [
+        "くら.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "primeval chaos"
+      ]
+    },
+    {
       "literal": "豚",
       "on": [
         "トン"
@@ -31997,6 +35565,48 @@
       "meanings": [
         "pork",
         "pig"
+      ]
+    },
+    {
+      "literal": "遁",
+      "on": [
+        "トン",
+        "シュン"
+      ],
+      "kun": [
+        "のが.れる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "flee",
+        "escape",
+        "shirk",
+        "evade",
+        "set free"
+      ]
+    },
+    {
+      "literal": "頓",
+      "on": [
+        "トン",
+        "トツ"
+      ],
+      "kun": [
+        "にわか.に",
+        "とん.と",
+        "つまず.く",
+        "とみ.に",
+        "ぬかずく"
+      ],
+      "nanori": [],
+      "meanings": [
+        "suddenly",
+        "immediately",
+        "in a hurry",
+        "arrange",
+        "stay in place",
+        "bow",
+        "kowtow"
       ]
     },
     {
@@ -32111,6 +35721,36 @@
       ]
     },
     {
+      "literal": "凪",
+      "on": [],
+      "kun": [
+        "なぎ",
+        "な.ぐ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "lull",
+        "calm",
+        "(kokuji)"
+      ]
+    },
+    {
+      "literal": "薙",
+      "on": [
+        "テイ",
+        "チ"
+      ],
+      "kun": [
+        "な.ぐ",
+        "なぎ",
+        "か.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "mow down (the enemy)"
+      ]
+    },
+    {
       "literal": "謎",
       "on": [
         "メイ",
@@ -32147,6 +35787,24 @@
       ]
     },
     {
+      "literal": "捺",
+      "on": [
+        "ナツ",
+        "ダツ"
+      ],
+      "kun": [
+        "さ.す",
+        "お.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "press",
+        "print",
+        "affix a seal",
+        "stamp"
+      ]
+    },
+    {
       "literal": "鍋",
       "on": [
         "カ"
@@ -32173,6 +35831,25 @@
       "nanori": [],
       "meanings": [
         "oak"
+      ]
+    },
+    {
+      "literal": "馴",
+      "on": [
+        "ジュン",
+        "シュン",
+        "クン"
+      ],
+      "kun": [
+        "な.れる",
+        "な.らす",
+        "したが.う"
+      ],
+      "nanori": [],
+      "meanings": [
+        "get used to",
+        "experienced",
+        "tamed"
       ]
     },
     {
@@ -32269,6 +35946,30 @@
       ]
     },
     {
+      "literal": "汝",
+      "on": [
+        "ジョ"
+      ],
+      "kun": [
+        "なんじ",
+        "なれ",
+        "い",
+        "うぬ",
+        "いまし",
+        "し",
+        "しゃ",
+        "な",
+        "なむち",
+        "まし",
+        "みまし"
+      ],
+      "nanori": [],
+      "meanings": [
+        "you",
+        "thou"
+      ]
+    },
+    {
       "literal": "二",
       "on": [
         "ニ",
@@ -32309,6 +36010,23 @@
       ]
     },
     {
+      "literal": "弐",
+      "on": [
+        "ニ",
+        "ジ"
+      ],
+      "kun": [
+        "ふた.つ",
+        "そえ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "II",
+        "two",
+        "second"
+      ]
+    },
+    {
       "literal": "匂",
       "on": [],
       "kun": [
@@ -32327,6 +36045,24 @@
         "glow",
         "insinuate",
         "(kokuji)"
+      ]
+    },
+    {
+      "literal": "賑",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "にぎ.わい",
+        "にぎ.やか",
+        "にぎ.わす",
+        "にぎ.わう"
+      ],
+      "nanori": [],
+      "meanings": [
+        "flourish",
+        "be bustling",
+        "prosperity"
       ]
     },
     {
@@ -32353,6 +36089,22 @@
       "nanori": [],
       "meanings": [
         "rainbow"
+      ]
+    },
+    {
+      "literal": "廿",
+      "on": [
+        "ジュウ",
+        "ニュウ"
+      ],
+      "kun": [
+        "にじゅう"
+      ],
+      "nanori": [
+        "はつ"
+      ],
+      "meanings": [
+        "twenty"
       ]
     },
     {
@@ -32583,6 +36335,32 @@
       ]
     },
     {
+      "literal": "禰",
+      "on": [
+        "ネ",
+        "デイ",
+        "ナイ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "ancestral shrine"
+      ]
+    },
+    {
+      "literal": "祢",
+      "on": [
+        "ネ",
+        "デイ",
+        "ナイ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "ancestral shrine"
+      ]
+    },
+    {
       "literal": "寧",
       "on": [
         "ネイ"
@@ -32667,6 +36445,25 @@
         "feeling",
         "desire",
         "attention"
+      ]
+    },
+    {
+      "literal": "捻",
+      "on": [
+        "ネン",
+        "ジョウ"
+      ],
+      "kun": [
+        "ね.じる",
+        "ねじ.る",
+        "ひね.くる",
+        "ひね.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "twirl",
+        "twist",
+        "play with"
       ]
     },
     {
@@ -32770,6 +36567,22 @@
       "meanings": [
         "of",
         "this"
+      ]
+    },
+    {
+      "literal": "埜",
+      "on": [
+        "ヤ",
+        "ショ"
+      ],
+      "kun": [
+        "の"
+      ],
+      "nanori": [],
+      "meanings": [
+        "open country",
+        "field",
+        "wilderness"
       ]
     },
     {
@@ -32958,6 +36771,22 @@
         "supremacy",
         "leadership",
         "champion"
+      ]
+    },
+    {
+      "literal": "杷",
+      "on": [
+        "ハ"
+      ],
+      "kun": [
+        "つか"
+      ],
+      "nanori": [
+        "わ"
+      ],
+      "meanings": [
+        "kind of rake",
+        "loquat"
       ]
     },
     {
@@ -33188,6 +37017,20 @@
       ]
     },
     {
+      "literal": "盃",
+      "on": [
+        "ハイ"
+      ],
+      "kun": [
+        "さかずき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "glass",
+        "cup"
+      ]
+    },
+    {
       "literal": "牌",
       "on": [
         "ハイ"
@@ -33332,6 +37175,21 @@
       ]
     },
     {
+      "literal": "煤",
+      "on": [
+        "バイ",
+        "マイ"
+      ],
+      "kun": [
+        "すす"
+      ],
+      "nanori": [],
+      "meanings": [
+        "soot",
+        "smoke dried"
+      ]
+    },
+    {
       "literal": "買",
       "on": [
         "バイ"
@@ -33386,6 +37244,43 @@
         "follow",
         "accompany",
         "attend on"
+      ]
+    },
+    {
+      "literal": "這",
+      "on": [
+        "シャ",
+        "ゲン"
+      ],
+      "kun": [
+        "は.う",
+        "は.い",
+        "むか.える",
+        "この"
+      ],
+      "nanori": [],
+      "meanings": [
+        "crawl",
+        "creep",
+        "grovel",
+        "trail (vines)"
+      ]
+    },
+    {
+      "literal": "秤",
+      "on": [
+        "ショウ",
+        "ヒン",
+        "ビン"
+      ],
+      "kun": [
+        "はかり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "balances",
+        "scales",
+        "steelyard"
       ]
     },
     {
@@ -33544,6 +37439,20 @@
       ]
     },
     {
+      "literal": "箔",
+      "on": [
+        "ハク"
+      ],
+      "kun": [
+        "すだれ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "foil",
+        "gilt"
+      ]
+    },
+    {
       "literal": "粕",
       "on": [
         "ハク"
@@ -33617,6 +37526,24 @@
       ]
     },
     {
+      "literal": "曝",
+      "on": [
+        "バク",
+        "ホク",
+        "ボク"
+      ],
+      "kun": [
+        "さら.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "bleach",
+        "refine",
+        "expose",
+        "air"
+      ]
+    },
+    {
       "literal": "漠",
       "on": [
         "バク"
@@ -33661,6 +37588,27 @@
         "bind",
         "tie",
         "restrain"
+      ]
+    },
+    {
+      "literal": "莫",
+      "on": [
+        "バク",
+        "ボ",
+        "マク",
+        "モ",
+        "ナイ"
+      ],
+      "kun": [
+        "くれ",
+        "なか.れ",
+        "なし"
+      ],
+      "nanori": [],
+      "meanings": [
+        "must not",
+        "do not",
+        "be not"
       ]
     },
     {
@@ -33740,6 +37688,24 @@
       ],
       "meanings": [
         "beginning"
+      ]
+    },
+    {
+      "literal": "筈",
+      "on": [
+        "カツ"
+      ],
+      "kun": [
+        "はず",
+        "やはず"
+      ],
+      "nanori": [],
+      "meanings": [
+        "notch of an arrow",
+        "ought",
+        "must",
+        "should be",
+        "expected"
       ]
     },
     {
@@ -34181,6 +38147,20 @@
       ]
     },
     {
+      "literal": "氾",
+      "on": [
+        "ハン"
+      ],
+      "kun": [
+        "ひろ.がる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "spread out",
+        "wide"
+      ]
+    },
+    {
       "literal": "汎",
       "on": [
         "ハン",
@@ -34401,6 +38381,23 @@
       ]
     },
     {
+      "literal": "挽",
+      "on": [
+        "バン"
+      ],
+      "kun": [
+        "ひ.く"
+      ],
+      "nanori": [
+        "ひき"
+      ],
+      "meanings": [
+        "saw",
+        "turn (lathe)",
+        "grind"
+      ]
+    },
+    {
       "literal": "晩",
       "on": [
         "バン"
@@ -34551,6 +38548,27 @@
       "meanings": [
         "queen",
         "princess"
+      ]
+    },
+    {
+      "literal": "庇",
+      "on": [
+        "ヒ"
+      ],
+      "kun": [
+        "ひさし",
+        "おお.う",
+        "かば.う"
+      ],
+      "nanori": [],
+      "meanings": [
+        "protect",
+        "shield",
+        "defend",
+        "eaves",
+        "canopy",
+        "penthouse",
+        "visor"
       ]
     },
     {
@@ -34976,6 +38994,34 @@
       ]
     },
     {
+      "literal": "枇",
+      "on": [
+        "ビ",
+        "ヒ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "loquat",
+        "spoon"
+      ]
+    },
+    {
+      "literal": "毘",
+      "on": [
+        "ヒ",
+        "ビ"
+      ],
+      "kun": [
+        "たす.ける"
+      ],
+      "nanori": [],
+      "meanings": [
+        "help",
+        "assist"
+      ]
+    },
+    {
       "literal": "琵",
       "on": [
         "ビ",
@@ -35037,6 +39083,20 @@
       ]
     },
     {
+      "literal": "柊",
+      "on": [
+        "シュ",
+        "シュウ"
+      ],
+      "kun": [
+        "ひいらぎ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "holly"
+      ]
+    },
+    {
       "literal": "匹",
       "on": [
         "ヒツ"
@@ -35050,6 +39110,23 @@
         "head",
         "counter for small animals",
         "roll of cloth"
+      ]
+    },
+    {
+      "literal": "疋",
+      "on": [
+        "ヒキ",
+        "ショ",
+        "ソ",
+        "ヒツ"
+      ],
+      "kun": [
+        "あし"
+      ],
+      "nanori": [],
+      "meanings": [
+        "head",
+        "counter for animals"
       ]
     },
     {
@@ -35101,6 +39178,20 @@
       ]
     },
     {
+      "literal": "肘",
+      "on": [
+        "チュウ"
+      ],
+      "kun": [
+        "ひじ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "elbow",
+        "arm"
+      ]
+    },
+    {
       "literal": "必",
       "on": [
         "ヒツ"
@@ -35113,6 +39204,23 @@
         "invariably",
         "certain",
         "inevitable"
+      ]
+    },
+    {
+      "literal": "畢",
+      "on": [
+        "ヒツ"
+      ],
+      "kun": [
+        "おわ.る",
+        "あみ",
+        "おわ.り",
+        "ことごとく"
+      ],
+      "nanori": [],
+      "meanings": [
+        "the end",
+        "finish"
       ]
     },
     {
@@ -35173,6 +39281,26 @@
       "meanings": [
         "beautiful woman",
         "princess"
+      ]
+    },
+    {
+      "literal": "紐",
+      "on": [
+        "チュウ",
+        "ジュウ"
+      ],
+      "kun": [
+        "ひも"
+      ],
+      "nanori": [],
+      "meanings": [
+        "string",
+        "cord",
+        "braid",
+        "lace",
+        "tape",
+        "strap",
+        "ribbon"
       ]
     },
     {
@@ -35302,6 +39430,20 @@
       ]
     },
     {
+      "literal": "瓢",
+      "on": [
+        "ヒョウ"
+      ],
+      "kun": [
+        "ひさご",
+        "ふくべ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "gourd"
+      ]
+    },
+    {
       "literal": "票",
       "on": [
         "ヒョウ"
@@ -35346,6 +39488,19 @@
         "evaluate",
         "criticism",
         "comment"
+      ]
+    },
+    {
+      "literal": "豹",
+      "on": [
+        "ヒョウ",
+        "ホウ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "leopard",
+        "panther"
       ]
     },
     {
@@ -35830,6 +39985,20 @@
       ]
     },
     {
+      "literal": "斧",
+      "on": [
+        "フ"
+      ],
+      "kun": [
+        "おの"
+      ],
+      "nanori": [],
+      "meanings": [
+        "ax",
+        "hatchet"
+      ]
+    },
+    {
       "literal": "普",
       "on": [
         "フ"
@@ -35986,6 +40155,25 @@
       ]
     },
     {
+      "literal": "賦",
+      "on": [
+        "フ",
+        "ブ"
+      ],
+      "kun": [],
+      "nanori": [
+        "うた"
+      ],
+      "meanings": [
+        "levy",
+        "ode",
+        "prose",
+        "poem",
+        "tribute",
+        "installment"
+      ]
+    },
+    {
       "literal": "赴",
       "on": [
         "フ"
@@ -36117,6 +40305,35 @@
       ]
     },
     {
+      "literal": "葡",
+      "on": [
+        "ブ",
+        "ホ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "wild grape",
+        "Portugal"
+      ]
+    },
+    {
+      "literal": "蕪",
+      "on": [
+        "ブ",
+        "ム"
+      ],
+      "kun": [
+        "かぶ",
+        "かぶら",
+        "あれる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "turnip"
+      ]
+    },
+    {
       "literal": "部",
       "on": [
         "ブ"
@@ -36155,6 +40372,19 @@
       ]
     },
     {
+      "literal": "楓",
+      "on": [
+        "フウ"
+      ],
+      "kun": [
+        "かえで"
+      ],
+      "nanori": [],
+      "meanings": [
+        "maple"
+      ]
+    },
+    {
       "literal": "風",
       "on": [
         "フウ",
@@ -36173,6 +40403,39 @@
         "air",
         "style",
         "manner"
+      ]
+    },
+    {
+      "literal": "葺",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "あし",
+        "ふ.く",
+        "ふき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "thatch",
+        "cover",
+        "shingle",
+        "tile"
+      ]
+    },
+    {
+      "literal": "蕗",
+      "on": [
+        "ロ",
+        "ル"
+      ],
+      "kun": [
+        "ふき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "butterbur",
+        "bog rhubarb"
       ]
     },
     {
@@ -36461,6 +40724,21 @@
       ]
     },
     {
+      "literal": "吻",
+      "on": [
+        "フン",
+        "ブン"
+      ],
+      "kun": [
+        "くちわき",
+        "くちさき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "proboscis"
+      ]
+    },
+    {
       "literal": "噴",
       "on": [
         "フン"
@@ -36502,6 +40780,27 @@
         "resent",
         "be indignant",
         "anger"
+      ]
+    },
+    {
+      "literal": "焚",
+      "on": [
+        "フン",
+        "ホン",
+        "ハン"
+      ],
+      "kun": [
+        "た.く",
+        "や.く",
+        "やきがり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "burn",
+        "kindle",
+        "build a fire",
+        "boil",
+        "cook"
       ]
     },
     {
@@ -36624,6 +40923,21 @@
         "hear",
         "ask",
         "listen"
+      ]
+    },
+    {
+      "literal": "丙",
+      "on": [
+        "ヘイ"
+      ],
+      "kun": [
+        "ひのえ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "third class",
+        "3rd",
+        "3rd calendar sign"
       ]
     },
     {
@@ -36795,6 +41109,26 @@
       ]
     },
     {
+      "literal": "蔽",
+      "on": [
+        "ヘイ",
+        "ヘツ",
+        "フツ"
+      ],
+      "kun": [
+        "おお.う",
+        "おお.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "cover",
+        "shade",
+        "mantle",
+        "capsize",
+        "be ruined"
+      ]
+    },
+    {
       "literal": "閉",
       "on": [
         "ヘイ"
@@ -36851,6 +41185,22 @@
         "rice",
         "USA",
         "metre"
+      ]
+    },
+    {
+      "literal": "頁",
+      "on": [
+        "ケツ"
+      ],
+      "kun": [
+        "ぺえじ",
+        "おおがい",
+        "かしら"
+      ],
+      "nanori": [],
+      "meanings": [
+        "page",
+        "leaf"
       ]
     },
     {
@@ -36924,6 +41274,18 @@
         "another",
         "extra",
         "specially"
+      ]
+    },
+    {
+      "literal": "瞥",
+      "on": [
+        "ベツ",
+        "ヘツ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "glance at"
       ]
     },
     {
@@ -37128,6 +41490,17 @@
       ]
     },
     {
+      "literal": "娩",
+      "on": [
+        "ベン"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "bear (children)"
+      ]
+    },
+    {
       "literal": "弁",
       "on": [
         "ベン",
@@ -37153,6 +41526,23 @@
         "dispose of",
         "distinguish",
         "conical cap"
+      ]
+    },
+    {
+      "literal": "鞭",
+      "on": [
+        "ベン",
+        "ヘン"
+      ],
+      "kun": [
+        "むち",
+        "むちうつ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "whip",
+        "rod",
+        "counter for whippings"
       ]
     },
     {
@@ -37194,6 +41584,22 @@
         "shop",
         "store",
         "pave"
+      ]
+    },
+    {
+      "literal": "圃",
+      "on": [
+        "ホ",
+        "フ"
+      ],
+      "kun": [
+        "はたけ",
+        "にわ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "garden",
+        "field"
       ]
     },
     {
@@ -37361,6 +41767,20 @@
         "yearn for",
         "love dearly",
         "adore"
+      ]
+    },
+    {
+      "literal": "戊",
+      "on": [
+        "ボ",
+        "ボウ"
+      ],
+      "kun": [
+        "つちのえ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "5th calendar sign"
       ]
     },
     {
@@ -37827,6 +42247,22 @@
       ]
     },
     {
+      "literal": "蓬",
+      "on": [
+        "ホウ",
+        "ブ"
+      ],
+      "kun": [
+        "よもぎ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sagebrush",
+        "wormwood",
+        "mugwort"
+      ]
+    },
+    {
       "literal": "蜂",
       "on": [
         "ホウ"
@@ -37916,6 +42352,24 @@
         "home country",
         "country",
         "Japan"
+      ]
+    },
+    {
+      "literal": "鋒",
+      "on": [
+        "ホウ"
+      ],
+      "kun": [
+        "きっさき",
+        "とかり",
+        "ほこさき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "dagger",
+        "sword's point",
+        "festival car",
+        "float"
       ]
     },
     {
@@ -38301,6 +42755,23 @@
       ]
     },
     {
+      "literal": "貌",
+      "on": [
+        "ボウ",
+        "バク"
+      ],
+      "kun": [
+        "かたち",
+        "かたどる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "form",
+        "appearance",
+        "countenance"
+      ]
+    },
+    {
       "literal": "貿",
       "on": [
         "ボウ"
@@ -38395,6 +42866,24 @@
         "I (male)",
         "servant",
         "manservant"
+      ]
+    },
+    {
+      "literal": "卜",
+      "on": [
+        "ボク"
+      ],
+      "kun": [
+        "うらな.う",
+        "うらない"
+      ],
+      "nanori": [
+        "うら"
+      ],
+      "meanings": [
+        "divining",
+        "fortune-telling",
+        "divination or katakana to radical (no. 25)"
       ]
     },
     {
@@ -38496,6 +42985,22 @@
       ]
     },
     {
+      "literal": "勃",
+      "on": [
+        "ボツ",
+        "ホツ"
+      ],
+      "kun": [
+        "おこ.る",
+        "にわかに"
+      ],
+      "nanori": [],
+      "meanings": [
+        "suddenness",
+        "rise"
+      ]
+    },
+    {
       "literal": "没",
       "on": [
         "ボツ",
@@ -38514,6 +43019,24 @@
         "fall into",
         "disappear",
         "die"
+      ]
+    },
+    {
+      "literal": "殆",
+      "on": [
+        "タイ",
+        "サイ"
+      ],
+      "kun": [
+        "ほとほと",
+        "ほとん.ど",
+        "あやうい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "almost",
+        "quite",
+        "really"
       ]
     },
     {
@@ -38750,6 +43273,22 @@
       ]
     },
     {
+      "literal": "昧",
+      "on": [
+        "マイ",
+        "バイ"
+      ],
+      "kun": [
+        "くら.い",
+        "むさぼ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "dark",
+        "foolish"
+      ]
+    },
+    {
       "literal": "枚",
       "on": [
         "マイ",
@@ -38778,6 +43317,19 @@
       ],
       "meanings": [
         "every"
+      ]
+    },
+    {
+      "literal": "哩",
+      "on": [
+        "リ"
+      ],
+      "kun": [
+        "まいる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "mile"
       ]
     },
     {
@@ -38838,6 +43390,21 @@
       ]
     },
     {
+      "literal": "柾",
+      "on": [],
+      "kun": [
+        "まさ",
+        "まさめ",
+        "まさき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "straight grain",
+        "spindle tree",
+        "(kokuji)"
+      ]
+    },
+    {
       "literal": "鱒",
       "on": [
         "ソン",
@@ -38862,6 +43429,21 @@
       "meanings": [
         "measuring box",
         "(kokuji)"
+      ]
+    },
+    {
+      "literal": "亦",
+      "on": [
+        "エキ",
+        "ヤク"
+      ],
+      "kun": [
+        "また"
+      ],
+      "nanori": [],
+      "meanings": [
+        "also",
+        "again"
       ]
     },
     {
@@ -38935,6 +43517,40 @@
       ]
     },
     {
+      "literal": "沫",
+      "on": [
+        "マツ",
+        "バツ"
+      ],
+      "kun": [
+        "あわ",
+        "しぶき",
+        "つばき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "splash",
+        "suds"
+      ]
+    },
+    {
+      "literal": "迄",
+      "on": [
+        "キツ"
+      ],
+      "kun": [
+        "まで",
+        "およ.ぶ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "until",
+        "up to",
+        "as far as",
+        "to the extent"
+      ]
+    },
+    {
       "literal": "繭",
       "on": [
         "ケン"
@@ -38946,6 +43562,21 @@
       "nanori": [],
       "meanings": [
         "cocoon"
+      ]
+    },
+    {
+      "literal": "麿",
+      "on": [],
+      "kun": [
+        "まろ"
+      ],
+      "nanori": [
+        "ま"
+      ],
+      "meanings": [
+        "I",
+        "you",
+        "(kokuji)"
       ]
     },
     {
@@ -39019,6 +43650,30 @@
         "unrestrained",
         "in spite of oneself",
         "corrupt"
+      ]
+    },
+    {
+      "literal": "蔓",
+      "on": [
+        "マン",
+        "バン"
+      ],
+      "kun": [
+        "はびこ.る",
+        "つる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "vine",
+        "tendril",
+        "influence",
+        "connections",
+        "good offices",
+        "spread",
+        "sprawl",
+        "thrive",
+        "rampant",
+        "powerful"
       ]
     },
     {
@@ -39163,6 +43818,20 @@
       "meanings": [
         "port",
         "harbor"
+      ]
+    },
+    {
+      "literal": "蓑",
+      "on": [
+        "サ",
+        "サイ"
+      ],
+      "kun": [
+        "みの"
+      ],
+      "nanori": [],
+      "meanings": [
+        "straw raincoat"
       ]
     },
     {
@@ -39361,6 +44030,22 @@
       ]
     },
     {
+      "literal": "椋",
+      "on": [
+        "リョウ"
+      ],
+      "kun": [
+        "むく"
+      ],
+      "nanori": [
+        "ぐら"
+      ],
+      "meanings": [
+        "type of deciduous tree",
+        "grey starling"
+      ]
+    },
+    {
       "literal": "婿",
       "on": [
         "セイ"
@@ -39547,6 +44232,24 @@
         "ring",
         "echo",
         "honk"
+      ]
+    },
+    {
+      "literal": "姪",
+      "on": [
+        "テツ",
+        "チツ",
+        "ジチ",
+        "イツ",
+        "イチ"
+      ],
+      "kun": [
+        "めい",
+        "おい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "niece"
       ]
     },
     {
@@ -39804,6 +44507,18 @@
       ]
     },
     {
+      "literal": "耗",
+      "on": [
+        "モウ",
+        "コウ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "decrease"
+      ]
+    },
+    {
       "literal": "蒙",
       "on": [
         "モウ",
@@ -39908,6 +44623,25 @@
       ]
     },
     {
+      "literal": "勿",
+      "on": [
+        "モチ",
+        "ブツ",
+        "ボツ"
+      ],
+      "kun": [
+        "なか.れ",
+        "なし"
+      ],
+      "nanori": [],
+      "meanings": [
+        "not",
+        "must not",
+        "do not",
+        "be not"
+      ]
+    },
+    {
       "literal": "餅",
       "on": [
         "ヘイ",
@@ -39920,6 +44654,25 @@
       "nanori": [],
       "meanings": [
         "mochi rice cake"
+      ]
+    },
+    {
+      "literal": "尤",
+      "on": [
+        "ユウ"
+      ],
+      "kun": [
+        "もっと.も",
+        "とが.める"
+      ],
+      "nanori": [],
+      "meanings": [
+        "reasonable",
+        "just",
+        "natural",
+        "superb",
+        "outstanding",
+        "plausible"
       ]
     },
     {
@@ -39939,6 +44692,18 @@
         "resume",
         "restore",
         "go backwards"
+      ]
+    },
+    {
+      "literal": "籾",
+      "on": [],
+      "kun": [
+        "もみ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "unhulled rice",
+        "(kokuji)"
       ]
     },
     {
@@ -40010,6 +44775,20 @@
       ]
     },
     {
+      "literal": "匁",
+      "on": [],
+      "kun": [
+        "もんめ",
+        "め"
+      ],
+      "nanori": [],
+      "meanings": [
+        "monme",
+        "3.75 grams",
+        "(kokuji)"
+      ]
+    },
+    {
       "literal": "也",
       "on": [
         "ヤ",
@@ -40028,6 +44807,22 @@
       ]
     },
     {
+      "literal": "冶",
+      "on": [
+        "ヤ"
+      ],
+      "kun": [
+        "い.る"
+      ],
+      "nanori": [
+        "じ"
+      ],
+      "meanings": [
+        "melting",
+        "smelting"
+      ]
+    },
+    {
       "literal": "夜",
       "on": [
         "ヤ"
@@ -40040,6 +44835,20 @@
       "meanings": [
         "night",
         "evening"
+      ]
+    },
+    {
+      "literal": "耶",
+      "on": [
+        "ヤ",
+        "ジャ"
+      ],
+      "kun": [
+        "か"
+      ],
+      "nanori": [],
+      "meanings": [
+        "question mark"
       ]
     },
     {
@@ -40442,6 +45251,22 @@
       ],
       "meanings": [
         "friend"
+      ]
+    },
+    {
+      "literal": "宥",
+      "on": [
+        "ユウ"
+      ],
+      "kun": [
+        "なだ.める",
+        "ゆる.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "soothe",
+        "calm",
+        "pacify"
       ]
     },
     {
@@ -40886,6 +45711,23 @@
       ]
     },
     {
+      "literal": "輿",
+      "on": [
+        "ヨ"
+      ],
+      "kun": [
+        "かご",
+        "こし"
+      ],
+      "nanori": [],
+      "meanings": [
+        "palanquin",
+        "bier",
+        "public opinion",
+        "the earth"
+      ]
+    },
+    {
       "literal": "預",
       "on": [
         "ヨ"
@@ -40900,6 +45742,23 @@
         "custody",
         "leave with",
         "entrust to"
+      ]
+    },
+    {
+      "literal": "傭",
+      "on": [
+        "ヨウ",
+        "チョウ"
+      ],
+      "kun": [
+        "やと.う",
+        "あた.い",
+        "ひと.しい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "employ",
+        "hire"
       ]
     },
     {
@@ -41211,6 +46070,20 @@
       ]
     },
     {
+      "literal": "蓉",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [],
+      "nanori": [
+        "はす",
+        "よ"
+      ],
+      "meanings": [
+        "lotus"
+      ]
+    },
+    {
       "literal": "要",
       "on": [
         "ヨウ"
@@ -41365,6 +46238,21 @@
       ]
     },
     {
+      "literal": "沃",
+      "on": [
+        "ヨウ",
+        "ヨク",
+        "オク"
+      ],
+      "kun": [
+        "そそ.ぐ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "fertility"
+      ]
+    },
+    {
       "literal": "浴",
       "on": [
         "ヨク"
@@ -41440,6 +46328,20 @@
         "Rome",
         "arrange",
         "spread out"
+      ]
+    },
+    {
+      "literal": "螺",
+      "on": [
+        "ラ"
+      ],
+      "kun": [
+        "にし",
+        "にな"
+      ],
+      "nanori": [],
+      "meanings": [
+        "small, edible, helical fresh-water mollusk"
       ]
     },
     {
@@ -41658,6 +46560,22 @@
       ]
     },
     {
+      "literal": "濫",
+      "on": [
+        "ラン"
+      ],
+      "kun": [
+        "みだ.りに",
+        "みだ.りがましい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "excessive",
+        "overflow",
+        "spread out"
+      ]
+    },
+    {
       "literal": "藍",
       "on": [
         "ラン"
@@ -41720,6 +46638,21 @@
         "profit",
         "advantage",
         "benefit"
+      ]
+    },
+    {
+      "literal": "吏",
+      "on": [
+        "リ"
+      ],
+      "kun": [],
+      "nanori": [
+        "さと",
+        "し"
+      ],
+      "meanings": [
+        "officer",
+        "an official"
       ]
     },
     {
@@ -41806,6 +46739,20 @@
       ]
     },
     {
+      "literal": "璃",
+      "on": [
+        "リ"
+      ],
+      "kun": [],
+      "nanori": [
+        "あき"
+      ],
+      "meanings": [
+        "glassy",
+        "lapis lazuli"
+      ]
+    },
+    {
       "literal": "痢",
       "on": [
         "リ"
@@ -41829,6 +46776,26 @@
         "back",
         "amidst",
         "in",
+        "reverse",
+        "inside",
+        "palm",
+        "sole",
+        "rear",
+        "lining",
+        "wrong side"
+      ]
+    },
+    {
+      "literal": "裡",
+      "on": [
+        "リ"
+      ],
+      "kun": [
+        "うち",
+        "うら"
+      ],
+      "nanori": [],
+      "meanings": [
         "reverse",
         "inside",
         "palm",
@@ -41967,6 +46934,30 @@
         "rise",
         "set up",
         "erect"
+      ]
+    },
+    {
+      "literal": "掠",
+      "on": [
+        "リャク",
+        "リョウ"
+      ],
+      "kun": [
+        "かす.める",
+        "かす.る",
+        "かす.れる"
+      ],
+      "nanori": [
+        "ぐら"
+      ],
+      "meanings": [
+        "pillage",
+        "rob",
+        "graze",
+        "skim",
+        "sweep over",
+        "cheat",
+        "hint"
       ]
     },
     {
@@ -42175,6 +47166,21 @@
       "meanings": [
         "dragon",
         "imperial"
+      ]
+    },
+    {
+      "literal": "侶",
+      "on": [
+        "リョ",
+        "ロ"
+      ],
+      "kun": [
+        "とも"
+      ],
+      "nanori": [],
+      "meanings": [
+        "companion",
+        "follower"
       ]
     },
     {
@@ -42414,6 +47420,19 @@
       ]
     },
     {
+      "literal": "瞭",
+      "on": [
+        "リョウ"
+      ],
+      "kun": [
+        "あきらか"
+      ],
+      "nanori": [],
+      "meanings": [
+        "clear"
+      ]
+    },
+    {
       "literal": "稜",
       "on": [
         "リョウ",
@@ -42472,6 +47491,27 @@
         "good",
         "pleasing",
         "skilled"
+      ]
+    },
+    {
+      "literal": "諒",
+      "on": [
+        "リョウ"
+      ],
+      "kun": [
+        "あきら.か",
+        "まことに"
+      ],
+      "nanori": [
+        "あき",
+        "まさ",
+        "まこと"
+      ],
+      "meanings": [
+        "fact",
+        "reality",
+        "understand",
+        "appreciate"
       ]
     },
     {
@@ -42629,6 +47669,33 @@
       ]
     },
     {
+      "literal": "淋",
+      "on": [
+        "リン"
+      ],
+      "kun": [
+        "さび.しい",
+        "さみ.しい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "lonely",
+        "deserted"
+      ]
+    },
+    {
+      "literal": "琳",
+      "on": [
+        "リン"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "jewel",
+        "tinkling of jewelry"
+      ]
+    },
+    {
       "literal": "臨",
       "on": [
         "リン"
@@ -42698,6 +47765,21 @@
       "nanori": [],
       "meanings": [
         "scales (fish)"
+      ]
+    },
+    {
+      "literal": "麟",
+      "on": [
+        "リン"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "Chinese unicorn",
+        "genius",
+        "giraffe",
+        "bright",
+        "shining"
       ]
     },
     {
@@ -42799,6 +47881,22 @@
         "command",
         "decree",
         "good"
+      ]
+    },
+    {
+      "literal": "伶",
+      "on": [
+        "レイ",
+        "リョウ"
+      ],
+      "kun": [
+        "わざおぎ"
+      ],
+      "nanori": [
+        "れ"
+      ],
+      "meanings": [
+        "actor"
       ]
     },
     {
@@ -43178,6 +48276,68 @@
       ]
     },
     {
+      "literal": "憐",
+      "on": [
+        "レン"
+      ],
+      "kun": [
+        "あわ.れむ",
+        "あわ.れ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pity",
+        "have mercy",
+        "sympathise",
+        "compassion"
+      ]
+    },
+    {
+      "literal": "漣",
+      "on": [
+        "レン",
+        "ラン"
+      ],
+      "kun": [
+        "さざなみ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "ripples"
+      ]
+    },
+    {
+      "literal": "煉",
+      "on": [
+        "レン"
+      ],
+      "kun": [
+        "ね.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "refine metals",
+        "kneading over fire"
+      ]
+    },
+    {
+      "literal": "簾",
+      "on": [
+        "レン"
+      ],
+      "kun": [
+        "すだれ",
+        "す"
+      ],
+      "nanori": [
+        "みす"
+      ],
+      "meanings": [
+        "bamboo screen",
+        "rattan blind"
+      ]
+    },
+    {
       "literal": "練",
       "on": [
         "レン"
@@ -43305,6 +48465,21 @@
       ]
     },
     {
+      "literal": "櫓",
+      "on": [
+        "ロ"
+      ],
+      "kun": [
+        "やぐら",
+        "おおだて"
+      ],
+      "nanori": [],
+      "meanings": [
+        "oar",
+        "tower"
+      ]
+    },
+    {
       "literal": "炉",
       "on": [
         "ロ"
@@ -43318,6 +48493,20 @@
         "furnace",
         "kiln",
         "reactor"
+      ]
+    },
+    {
+      "literal": "賂",
+      "on": [
+        "ロ"
+      ],
+      "kun": [
+        "まいな.い",
+        "まいな.う"
+      ],
+      "nanori": [],
+      "meanings": [
+        "bribe"
       ]
     },
     {
@@ -43391,6 +48580,27 @@
         "corridor",
         "hall",
         "tower"
+      ]
+    },
+    {
+      "literal": "弄",
+      "on": [
+        "ロウ",
+        "ル"
+      ],
+      "kun": [
+        "いじく.る",
+        "ろう.する",
+        "いじ.る",
+        "ひねく.る",
+        "たわむ.れる",
+        "もてあそ.ぶ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "play with",
+        "tamper",
+        "trifle with"
       ]
     },
     {
@@ -43617,6 +48827,19 @@
       ]
     },
     {
+      "literal": "肋",
+      "on": [
+        "ロク"
+      ],
+      "kun": [
+        "あばら"
+      ],
+      "nanori": [],
+      "meanings": [
+        "rib"
+      ]
+    },
+    {
       "literal": "録",
       "on": [
         "ロク"
@@ -43823,6 +49046,26 @@
       ]
     },
     {
+      "literal": "亙",
+      "on": [
+        "コウ",
+        "カン"
+      ],
+      "kun": [
+        "わた.る",
+        "もと.める"
+      ],
+      "nanori": [
+        "のぶ"
+      ],
+      "meanings": [
+        "range",
+        "reach",
+        "extend",
+        "cover"
+      ]
+    },
+    {
       "literal": "亘",
       "on": [
         "コウ",
@@ -43892,6 +49135,19 @@
       ]
     },
     {
+      "literal": "椀",
+      "on": [
+        "ワン"
+      ],
+      "kun": [
+        "はち"
+      ],
+      "nanori": [],
+      "meanings": [
+        "wooden or lacquered bowl"
+      ]
+    },
+    {
       "literal": "湾",
       "on": [
         "ワン"
@@ -43904,6 +49160,20 @@
         "gulf",
         "bay",
         "inlet"
+      ]
+    },
+    {
+      "literal": "碗",
+      "on": [
+        "ワン"
+      ],
+      "kun": [
+        "こばち"
+      ],
+      "nanori": [],
+      "meanings": [
+        "porcelain bowl",
+        "tea cup"
       ]
     },
     {
@@ -43939,6 +49209,108 @@
       ]
     },
     {
+      "literal": "乘",
+      "on": [
+        "ジョウ"
+      ],
+      "kun": [
+        "の.る",
+        "の.せる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "power",
+        "multiplication",
+        "record",
+        "counter for vehicles"
+      ]
+    },
+    {
+      "literal": "亞",
+      "on": [
+        "ア"
+      ],
+      "kun": [
+        "つ.ぐ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "rank",
+        "follow"
+      ]
+    },
+    {
+      "literal": "佛",
+      "on": [
+        "ブツ",
+        "フツ"
+      ],
+      "kun": [
+        "ほとけ"
+      ],
+      "nanori": [
+        "さらぎ"
+      ],
+      "meanings": [
+        "France"
+      ]
+    },
+    {
+      "literal": "侑",
+      "on": [
+        "ユウ",
+        "ウ"
+      ],
+      "kun": [
+        "すす.める",
+        "たす.ける"
+      ],
+      "nanori": [
+        "あつむ",
+        "すすむ",
+        "ゆき",
+        "ゆ"
+      ],
+      "meanings": [
+        "urge to eat"
+      ]
+    },
+    {
+      "literal": "來",
+      "on": [
+        "ライ",
+        "タイ"
+      ],
+      "kun": [
+        "く.る",
+        "きた.る",
+        "きた.す",
+        "き.たす",
+        "き.たる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "come",
+        "due",
+        "next",
+        "cause",
+        "become"
+      ]
+    },
+    {
+      "literal": "俐",
+      "on": [
+        "リ"
+      ],
+      "kun": [
+        "かしこ.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "clever"
+      ]
+    },
+    {
       "literal": "偕",
       "on": [
         "カイ"
@@ -43952,6 +49324,106 @@
       ]
     },
     {
+      "literal": "傲",
+      "on": [
+        "ゴウ"
+      ],
+      "kun": [
+        "おご.る",
+        "あなど.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "be proud"
+      ]
+    },
+    {
+      "literal": "傳",
+      "on": [
+        "テン",
+        "デン"
+      ],
+      "kun": [
+        "つた.わる",
+        "つた.える",
+        "つた.う",
+        "つて"
+      ],
+      "nanori": [],
+      "meanings": [
+        "summon",
+        "propagate",
+        "transmit"
+      ]
+    },
+    {
+      "literal": "僞",
+      "on": [
+        "ギ",
+        "カ"
+      ],
+      "kun": [
+        "いつわ.る",
+        "いつわ.り",
+        "にせ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "lie",
+        "falsehood",
+        "deceive",
+        "pretend"
+      ]
+    },
+    {
+      "literal": "價",
+      "on": [
+        "カ",
+        "ケ"
+      ],
+      "kun": [
+        "あたい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "price",
+        "value"
+      ]
+    },
+    {
+      "literal": "儉",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "つま.しい",
+        "つづまやか"
+      ],
+      "nanori": [],
+      "meanings": [
+        "economy",
+        "thrifty"
+      ]
+    },
+    {
+      "literal": "兒",
+      "on": [
+        "ジ",
+        "ニ",
+        "ゲイ"
+      ],
+      "kun": [
+        "こ"
+      ],
+      "nanori": [
+        "ちご"
+      ],
+      "meanings": [
+        "child",
+        "young of animals"
+      ]
+    },
+    {
       "literal": "冤",
       "on": [
         "エン"
@@ -43961,6 +49433,143 @@
       "meanings": [
         "false charge",
         "hatred"
+      ]
+    },
+    {
+      "literal": "凉",
+      "on": [
+        "リョウ"
+      ],
+      "kun": [
+        "すず.しい",
+        "すず.む",
+        "すず.やか",
+        "うす.い",
+        "ひや.す",
+        "まことに"
+      ],
+      "nanori": [],
+      "meanings": [
+        "nice and cool"
+      ]
+    },
+    {
+      "literal": "凛",
+      "on": [
+        "リン"
+      ],
+      "kun": [
+        "きびし.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "cold",
+        "strict",
+        "severe"
+      ]
+    },
+    {
+      "literal": "凰",
+      "on": [
+        "コウ",
+        "オウ"
+      ],
+      "kun": [
+        "おおとり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "female phoenix bird"
+      ]
+    },
+    {
+      "literal": "刹",
+      "on": [
+        "セチ",
+        "セツ",
+        "サツ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "temple"
+      ]
+    },
+    {
+      "literal": "剩",
+      "on": [
+        "ジョウ"
+      ],
+      "kun": [
+        "あまつさえ",
+        "あま.り",
+        "あま.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "leftovers",
+        "residue",
+        "remains"
+      ]
+    },
+    {
+      "literal": "劍",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "つるぎ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sword"
+      ]
+    },
+    {
+      "literal": "勁",
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "つよ.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "strong"
+      ]
+    },
+    {
+      "literal": "勳",
+      "on": [
+        "クン"
+      ],
+      "kun": [
+        "いさお"
+      ],
+      "nanori": [
+        "いさ"
+      ],
+      "meanings": [
+        "meritorious deed",
+        "merits",
+        "rank"
+      ]
+    },
+    {
+      "literal": "卷",
+      "on": [
+        "カン",
+        "ケン"
+      ],
+      "kun": [
+        "ま.く",
+        "まき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "volume",
+        "book",
+        "part"
       ]
     },
     {
@@ -44041,6 +49650,36 @@
       ]
     },
     {
+      "literal": "單",
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "ひとえ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "one",
+        "single",
+        "simple"
+      ]
+    },
+    {
+      "literal": "喩",
+      "on": [
+        "ユ"
+      ],
+      "kun": [
+        "たと.える",
+        "さと.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "metaphor",
+        "compare"
+      ]
+    },
+    {
       "literal": "嗅",
       "on": [
         "キュウ"
@@ -44074,6 +49713,40 @@
       ]
     },
     {
+      "literal": "嘲",
+      "on": [
+        "チョウ",
+        "トウ"
+      ],
+      "kun": [
+        "あざけ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "ridicule",
+        "insult"
+      ]
+    },
+    {
+      "literal": "嚴",
+      "on": [
+        "ゲン",
+        "ゴン"
+      ],
+      "kun": [
+        "おごそ.か",
+        "きび.しい",
+        "いか.めしい",
+        "いつくし"
+      ],
+      "nanori": [],
+      "meanings": [
+        "strictness",
+        "severity",
+        "rigidity"
+      ]
+    },
+    {
       "literal": "囃",
       "on": [
         "サツ",
@@ -44091,6 +49764,220 @@
         "banter",
         "jeer",
         "applaud"
+      ]
+    },
+    {
+      "literal": "圈",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "かこ.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sphere",
+        "circle",
+        "radius",
+        "range"
+      ]
+    },
+    {
+      "literal": "國",
+      "on": [
+        "コク"
+      ],
+      "kun": [
+        "くに"
+      ],
+      "nanori": [
+        "こ"
+      ],
+      "meanings": [
+        "country"
+      ]
+    },
+    {
+      "literal": "圓",
+      "on": [
+        "エン"
+      ],
+      "kun": [
+        "まる.い",
+        "まる",
+        "まど",
+        "まど.か",
+        "まろ.やか"
+      ],
+      "nanori": [
+        "つぶら"
+      ],
+      "meanings": [
+        "yen",
+        "circle",
+        "round"
+      ]
+    },
+    {
+      "literal": "團",
+      "on": [
+        "ダン",
+        "トン"
+      ],
+      "kun": [
+        "かたまり",
+        "まる.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "association"
+      ]
+    },
+    {
+      "literal": "毀",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "こぼ.つ",
+        "こわ.す",
+        "こぼ.れる",
+        "こわ.れる",
+        "そし.る",
+        "やぶ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "break",
+        "destroy",
+        "censure",
+        "be chipped",
+        "be scratched",
+        "be broken",
+        "be ruined"
+      ]
+    },
+    {
+      "literal": "壞",
+      "on": [
+        "カイ",
+        "エ"
+      ],
+      "kun": [
+        "こわ.す",
+        "こわ.れる",
+        "やぶ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "demolition",
+        "break",
+        "destroy"
+      ]
+    },
+    {
+      "literal": "壘",
+      "on": [
+        "ルイ",
+        "ライ",
+        "スイ"
+      ],
+      "kun": [
+        "とりで"
+      ],
+      "nanori": [],
+      "meanings": [
+        "fort",
+        "rampart",
+        "walls",
+        "base(ball)"
+      ]
+    },
+    {
+      "literal": "壯",
+      "on": [
+        "ソウ"
+      ],
+      "kun": [
+        "さかん"
+      ],
+      "nanori": [
+        "たけし"
+      ],
+      "meanings": [
+        "big",
+        "large",
+        "robust",
+        "name of tribe"
+      ]
+    },
+    {
+      "literal": "壽",
+      "on": [
+        "ジュ",
+        "ス",
+        "シュウ"
+      ],
+      "kun": [
+        "ことぶき",
+        "ことぶ.く",
+        "ことほ.ぐ"
+      ],
+      "nanori": [
+        "かず",
+        "じ",
+        "とし",
+        "ひさ",
+        "ひさし"
+      ],
+      "meanings": [
+        "longevity",
+        "congratulations"
+      ]
+    },
+    {
+      "literal": "奎",
+      "on": [
+        "ケイ",
+        "キ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "star",
+        "god of literature"
+      ]
+    },
+    {
+      "literal": "奧",
+      "on": [
+        "オウ",
+        "オク"
+      ],
+      "kun": [
+        "おく.まる",
+        "くま"
+      ],
+      "nanori": [],
+      "meanings": [
+        "heart",
+        "interior"
+      ]
+    },
+    {
+      "literal": "奬",
+      "on": [
+        "ショウ",
+        "ソウ"
+      ],
+      "kun": [
+        "すす.める"
+      ],
+      "nanori": [],
+      "meanings": [
+        "prize",
+        "reward",
+        "give award to"
       ]
     },
     {
@@ -44122,6 +50009,100 @@
       "nanori": [],
       "meanings": [
         "beautiful"
+      ]
+    },
+    {
+      "literal": "孃",
+      "on": [
+        "ジョウ"
+      ],
+      "kun": [
+        "むすめ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "girl",
+        "Miss",
+        "daughter"
+      ]
+    },
+    {
+      "literal": "實",
+      "on": [
+        "ジツ",
+        "シツ"
+      ],
+      "kun": [
+        "み",
+        "みの.る",
+        "まこと.に",
+        "みの.り",
+        "みち.る"
+      ],
+      "nanori": [
+        "さな",
+        "さね",
+        "みつ"
+      ],
+      "meanings": [
+        "truth",
+        "reality"
+      ]
+    },
+    {
+      "literal": "寢",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "ね.る",
+        "ね.かす",
+        "い.ぬ",
+        "みたまや",
+        "や.める"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sleep",
+        "rest",
+        "bed chamber"
+      ]
+    },
+    {
+      "literal": "將",
+      "on": [
+        "ショウ",
+        "ソウ"
+      ],
+      "kun": [
+        "まさ.に",
+        "はた",
+        "ひきい.る",
+        "もって"
+      ],
+      "nanori": [
+        "まさる"
+      ],
+      "meanings": [
+        "commander",
+        "general",
+        "admiral"
+      ]
+    },
+    {
+      "literal": "專",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "もっぱ.ら"
+      ],
+      "nanori": [],
+      "meanings": [
+        "specialty",
+        "exclusive",
+        "mainly",
+        "solely"
       ]
     },
     {
@@ -44172,6 +50153,25 @@
       ]
     },
     {
+      "literal": "峽",
+      "on": [
+        "キョウ",
+        "コウ"
+      ],
+      "kun": [
+        "はざま"
+      ],
+      "nanori": [
+        "かい"
+      ],
+      "meanings": [
+        "gorge",
+        "strait",
+        "ravine",
+        "isthmus"
+      ]
+    },
+    {
       "literal": "嶌",
       "on": [
         "トウ"
@@ -44202,6 +50202,17 @@
       ]
     },
     {
+      "literal": "崚",
+      "on": [
+        "リョウ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "mountains towering in a row"
+      ]
+    },
+    {
       "literal": "嶽",
       "on": [
         "ガク"
@@ -44214,6 +50225,41 @@
       ],
       "meanings": [
         "peak"
+      ]
+    },
+    {
+      "literal": "巖",
+      "on": [
+        "ガン"
+      ],
+      "kun": [
+        "いわ",
+        "いわお",
+        "けわ.しい"
+      ],
+      "nanori": [
+        "よし"
+      ],
+      "meanings": [
+        "rock",
+        "crag",
+        "boulder"
+      ]
+    },
+    {
+      "literal": "巫",
+      "on": [
+        "フ"
+      ],
+      "kun": [
+        "みこ",
+        "かんなぎ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sorcerer",
+        "medium",
+        "shrine maiden"
       ]
     },
     {
@@ -44239,6 +50285,24 @@
       ]
     },
     {
+      "literal": "帶",
+      "on": [
+        "タイ"
+      ],
+      "kun": [
+        "お.びる",
+        "おび"
+      ],
+      "nanori": [],
+      "meanings": [
+        "belt",
+        "girdle",
+        "band",
+        "strap",
+        "zone"
+      ]
+    },
+    {
       "literal": "廣",
       "on": [
         "コウ"
@@ -44255,6 +50319,69 @@
         "broad",
         "wide",
         "spacious"
+      ]
+    },
+    {
+      "literal": "廳",
+      "on": [
+        "チョウ",
+        "テイ"
+      ],
+      "kun": [
+        "やくしょ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "hall",
+        "central room"
+      ]
+    },
+    {
+      "literal": "彈",
+      "on": [
+        "ダン",
+        "タン"
+      ],
+      "kun": [
+        "ひ.く",
+        "はず.む",
+        "たま",
+        "はじ.く",
+        "はじ.ける",
+        "ただ.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "bullet",
+        "twang",
+        "flip",
+        "snap"
+      ]
+    },
+    {
+      "literal": "彌",
+      "on": [
+        "ミ",
+        "ビ"
+      ],
+      "kun": [
+        "いや",
+        "や",
+        "あまねし",
+        "いよいよ",
+        "とおい",
+        "ひさし",
+        "ひさ.しい",
+        "わた.る"
+      ],
+      "nanori": [
+        "ゆ"
+      ],
+      "meanings": [
+        "extensive",
+        "full",
+        "fill",
+        "complete"
       ]
     },
     {
@@ -44277,6 +50404,23 @@
       ]
     },
     {
+      "literal": "彙",
+      "on": [
+        "イ"
+      ],
+      "kun": [
+        "はりねずみ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "same kind",
+        "collect",
+        "classify",
+        "category",
+        "hedgehog"
+      ]
+    },
+    {
       "literal": "彭",
       "on": [
         "ホウ"
@@ -44286,6 +50430,27 @@
       "meanings": [
         "swelling",
         "sound of drum"
+      ]
+    },
+    {
+      "literal": "從",
+      "on": [
+        "ジュウ",
+        "ショウ",
+        "ジュ"
+      ],
+      "kun": [
+        "したが.う",
+        "したが.える",
+        "より"
+      ],
+      "nanori": [],
+      "meanings": [
+        "from",
+        "by",
+        "since",
+        "whence",
+        "through"
       ]
     },
     {
@@ -44299,6 +50464,40 @@
       "nanori": [],
       "meanings": [
         "wander"
+      ]
+    },
+    {
+      "literal": "徠",
+      "on": [
+        "ライ"
+      ],
+      "kun": [
+        "きた.す",
+        "きた.る",
+        "く.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "induce",
+        "encourage to come"
+      ]
+    },
+    {
+      "literal": "恆",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "つね.に"
+      ],
+      "nanori": [
+        "わたる",
+        "ひさし"
+      ],
+      "meanings": [
+        "constant",
+        "regular",
+        "persistent"
       ]
     },
     {
@@ -44332,6 +50531,185 @@
       ]
     },
     {
+      "literal": "惡",
+      "on": [
+        "アク",
+        "オ"
+      ],
+      "kun": [
+        "わる.い",
+        "あ.し",
+        "にく.い",
+        "ああ",
+        "いずくに",
+        "いずくんぞ",
+        "にく.む"
+      ],
+      "nanori": [],
+      "meanings": [
+        "bad",
+        "evil"
+      ]
+    },
+    {
+      "literal": "惠",
+      "on": [
+        "ケイ",
+        "エ"
+      ],
+      "kun": [
+        "めぐ.む",
+        "めぐ.み"
+      ],
+      "nanori": [],
+      "meanings": [
+        "blessing",
+        "grace",
+        "favor",
+        "kindness"
+      ]
+    },
+    {
+      "literal": "惺",
+      "on": [
+        "セイ"
+      ],
+      "kun": [
+        "さと.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "realize"
+      ]
+    },
+    {
+      "literal": "愼",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "つつし.む",
+        "つつし.み"
+      ],
+      "nanori": [],
+      "meanings": [
+        "care",
+        "chastity"
+      ]
+    },
+    {
+      "literal": "慄",
+      "on": [
+        "リツ"
+      ],
+      "kun": [
+        "ふる.える",
+        "おそ.れる",
+        "おのの.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "fear"
+      ]
+    },
+    {
+      "literal": "憬",
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "あこが.れる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "yearn for",
+        "aspire to",
+        "admire"
+      ]
+    },
+    {
+      "literal": "應",
+      "on": [
+        "オウ",
+        "ヨウ"
+      ],
+      "kun": [
+        "あた.る",
+        "まさに",
+        "こた.える"
+      ],
+      "nanori": [],
+      "meanings": [
+        "answer",
+        "yes",
+        "OK",
+        "reply",
+        "accept"
+      ]
+    },
+    {
+      "literal": "懷",
+      "on": [
+        "カイ",
+        "エ"
+      ],
+      "kun": [
+        "ふところ",
+        "なつ.かしい",
+        "なつ.かしむ",
+        "なつ.く",
+        "なつ.ける",
+        "いだ.く",
+        "おも.う"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pocket",
+        "feelings",
+        "heart",
+        "yearn",
+        "miss someone",
+        "become attached to",
+        "bosom",
+        "breast"
+      ]
+    },
+    {
+      "literal": "戰",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "いくさ",
+        "たたか.う",
+        "おのの.く",
+        "そよぐ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "war",
+        "fighting",
+        "battle"
+      ]
+    },
+    {
+      "literal": "戲",
+      "on": [
+        "ギ",
+        "ゲ"
+      ],
+      "kun": [
+        "たわむ.れる",
+        "たわむ.れ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "play",
+        "frolic",
+        "sport"
+      ]
+    },
+    {
       "literal": "抒",
       "on": [
         "ジョ",
@@ -44345,6 +50723,79 @@
       "meanings": [
         "tell",
         "10**24"
+      ]
+    },
+    {
+      "literal": "拔",
+      "on": [
+        "バツ",
+        "ハイ"
+      ],
+      "kun": [
+        "ぬ.く",
+        "ぬ.ける",
+        "ぬ.かす",
+        "ぬ.かる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "extract",
+        "pull out",
+        "pilfer",
+        "quote",
+        "remove",
+        "omit"
+      ]
+    },
+    {
+      "literal": "拜",
+      "on": [
+        "ハイ"
+      ],
+      "kun": [
+        "おが.む",
+        "おろが.む"
+      ],
+      "nanori": [],
+      "meanings": [
+        "worship",
+        "adore",
+        "pray to"
+      ]
+    },
+    {
+      "literal": "拂",
+      "on": [
+        "ヒツ",
+        "フツ",
+        "ホツ"
+      ],
+      "kun": [
+        "はら.う"
+      ],
+      "nanori": [],
+      "meanings": [
+        "clear out",
+        "sweep away"
+      ]
+    },
+    {
+      "literal": "拉",
+      "on": [
+        "ラツ",
+        "ラ",
+        "ロウ"
+      ],
+      "kun": [
+        "らっ.する",
+        "ひし.ぐ",
+        "くだ.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "Latin",
+        "kidnap",
+        "crush"
       ]
     },
     {
@@ -44365,6 +50816,46 @@
       ]
     },
     {
+      "literal": "搖",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "ゆ.れる",
+        "ゆ.らぐ",
+        "ゆ.るぐ",
+        "ゆ.する",
+        "ゆ.さぶる",
+        "ゆ.すぶる",
+        "うご.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "wag",
+        "swing",
+        "wave",
+        "shake",
+        "scull"
+      ]
+    },
+    {
+      "literal": "攝",
+      "on": [
+        "セツ",
+        "ショウ"
+      ],
+      "kun": [
+        "おさ.める",
+        "かね.る",
+        "と.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "surrogate",
+        "act in addition to"
+      ]
+    },
+    {
       "literal": "摯",
       "on": [
         "シ"
@@ -44378,6 +50869,37 @@
       "meanings": [
         "gift",
         "seriousness"
+      ]
+    },
+    {
+      "literal": "收",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "おさ.める",
+        "おさ.まる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "income"
+      ]
+    },
+    {
+      "literal": "敍",
+      "on": [
+        "ジョ"
+      ],
+      "kun": [
+        "つい.ず",
+        "ついで"
+      ],
+      "nanori": [],
+      "meanings": [
+        "express",
+        "state",
+        "relate",
+        "narrate"
       ]
     },
     {
@@ -44397,6 +50919,106 @@
       ]
     },
     {
+      "literal": "昊",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "そら"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sky",
+        "big"
+      ]
+    },
+    {
+      "literal": "昴",
+      "on": [
+        "コウ",
+        "ボウ"
+      ],
+      "kun": [
+        "すばる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "the Pleiades"
+      ]
+    },
+    {
+      "literal": "晏",
+      "on": [
+        "アン"
+      ],
+      "kun": [
+        "おそ.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "late",
+        "quiet",
+        "sets (sun)"
+      ]
+    },
+    {
+      "literal": "晄",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "あきらか"
+      ],
+      "nanori": [],
+      "meanings": [
+        "clear"
+      ]
+    },
+    {
+      "literal": "晝",
+      "on": [
+        "チュウ"
+      ],
+      "kun": [
+        "ひる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "daytime",
+        "daylight"
+      ]
+    },
+    {
+      "literal": "晨",
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "あした",
+        "とき",
+        "あさ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "morning",
+        "early"
+      ]
+    },
+    {
+      "literal": "晟",
+      "on": [
+        "セイ",
+        "ジョウ"
+      ],
+      "kun": [
+        "あきらか"
+      ],
+      "nanori": [],
+      "meanings": [
+        "clear"
+      ]
+    },
+    {
       "literal": "暉",
       "on": [
         "キ"
@@ -44410,6 +51032,40 @@
       "meanings": [
         "shine",
         "light"
+      ]
+    },
+    {
+      "literal": "曉",
+      "on": [
+        "キョウ",
+        "ギョウ"
+      ],
+      "kun": [
+        "あかつき",
+        "さと.る"
+      ],
+      "nanori": [
+        "あき"
+      ],
+      "meanings": [
+        "dawn",
+        "daybreak",
+        "clear",
+        "explicit"
+      ]
+    },
+    {
+      "literal": "曖",
+      "on": [
+        "アイ"
+      ],
+      "kun": [
+        "くら.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "dark",
+        "not clear"
       ]
     },
     {
@@ -44439,6 +51095,147 @@
       ]
     },
     {
+      "literal": "栞",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "しおり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "bookmark",
+        "guidebook"
+      ]
+    },
+    {
+      "literal": "條",
+      "on": [
+        "ジョウ",
+        "チョウ",
+        "デキ"
+      ],
+      "kun": [
+        "えだ",
+        "すじ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "article",
+        "counter for articles, clauses, paragraphs, etc.",
+        "twig",
+        "ray of light"
+      ]
+    },
+    {
+      "literal": "梛",
+      "on": [
+        "ダ",
+        "ナ"
+      ],
+      "kun": [
+        "なぎ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "type of tall evergreen tree"
+      ]
+    },
+    {
+      "literal": "楷",
+      "on": [
+        "カイ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "square character style",
+        "correctness"
+      ]
+    },
+    {
+      "literal": "椰",
+      "on": [
+        "ヤ"
+      ],
+      "kun": [
+        "やし"
+      ],
+      "nanori": [],
+      "meanings": [
+        "coconut tree"
+      ]
+    },
+    {
+      "literal": "榮",
+      "on": [
+        "エイ",
+        "ヨウ"
+      ],
+      "kun": [
+        "さか.える",
+        "は.える",
+        "え"
+      ],
+      "nanori": [],
+      "meanings": [
+        "flourish",
+        "prosperity",
+        "honour",
+        "glory",
+        "splendour"
+      ]
+    },
+    {
+      "literal": "樂",
+      "on": [
+        "ガク",
+        "ラク",
+        "ゴウ"
+      ],
+      "kun": [
+        "たの.しい",
+        "たの.しむ",
+        "この.む"
+      ],
+      "nanori": [],
+      "meanings": [
+        "music",
+        "comfort"
+      ]
+    },
+    {
+      "literal": "樣",
+      "on": [
+        "ヨウ",
+        "ショウ"
+      ],
+      "kun": [
+        "さま"
+      ],
+      "nanori": [],
+      "meanings": [
+        "Esq.",
+        "way",
+        "manner",
+        "situation",
+        "polite suffix"
+      ]
+    },
+    {
+      "literal": "橙",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "だいだい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "bitter orange"
+      ]
+    },
+    {
       "literal": "檄",
       "on": [
         "ケキ"
@@ -44454,6 +51251,83 @@
       ]
     },
     {
+      "literal": "檢",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "しら.べる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "check",
+        "examine"
+      ]
+    },
+    {
+      "literal": "櫂",
+      "on": [
+        "トウ",
+        "タク"
+      ],
+      "kun": [
+        "かい",
+        "かじ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "oar",
+        "scull",
+        "paddle"
+      ]
+    },
+    {
+      "literal": "櫻",
+      "on": [
+        "オウ",
+        "ヨウ"
+      ],
+      "kun": [
+        "さくら"
+      ],
+      "nanori": [],
+      "meanings": [
+        "cherry"
+      ]
+    },
+    {
+      "literal": "鬱",
+      "on": [
+        "ウツ"
+      ],
+      "kun": [
+        "うっ.する",
+        "ふさ.ぐ",
+        "しげ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "gloom",
+        "depression",
+        "melancholy",
+        "luxuriant"
+      ]
+    },
+    {
+      "literal": "盜",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "ぬす.む"
+      ],
+      "nanori": [],
+      "meanings": [
+        "thief",
+        "to steal"
+      ]
+    },
+    {
       "literal": "毬",
       "on": [
         "キュウ"
@@ -44466,6 +51340,24 @@
       "meanings": [
         "burr",
         "ball"
+      ]
+    },
+    {
+      "literal": "氣",
+      "on": [
+        "キ",
+        "ケ"
+      ],
+      "kun": [
+        "いき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "spirit",
+        "mind",
+        "air",
+        "atmosphere",
+        "mood"
       ]
     },
     {
@@ -44498,6 +51390,22 @@
       ],
       "meanings": [
         "sparkling water"
+      ]
+    },
+    {
+      "literal": "洵",
+      "on": [
+        "ジュン",
+        "シュン"
+      ],
+      "kun": [
+        "の.ぶ",
+        "まこと.に"
+      ],
+      "nanori": [],
+      "meanings": [
+        "alike",
+        "truth"
       ]
     },
     {
@@ -44548,6 +51456,51 @@
       ]
     },
     {
+      "literal": "淨",
+      "on": [
+        "ジョウ",
+        "セイ"
+      ],
+      "kun": [
+        "きよ.める",
+        "きよ.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pure",
+        "clean",
+        "unspoiled"
+      ]
+    },
+    {
+      "literal": "渾",
+      "on": [
+        "コン"
+      ],
+      "kun": [
+        "すべ.て",
+        "にご.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "all",
+        "turbidity"
+      ]
+    },
+    {
+      "literal": "滉",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "ひろ.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "deep and broad (water)"
+      ]
+    },
+    {
       "literal": "溥",
       "on": [
         "フ",
@@ -44581,6 +51534,41 @@
       ]
     },
     {
+      "literal": "滯",
+      "on": [
+        "タイ",
+        "テイ"
+      ],
+      "kun": [
+        "とどこお.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "block up",
+        "obstruct",
+        "stagnant"
+      ]
+    },
+    {
+      "literal": "澁",
+      "on": [
+        "ジュウ",
+        "シュウ"
+      ],
+      "kun": [
+        "しぶ",
+        "しぶ.い",
+        "しぶ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "astringent",
+        "harsh",
+        "uneven",
+        "rough"
+      ]
+    },
+    {
       "literal": "澤",
       "on": [
         "タク"
@@ -44594,6 +51582,41 @@
       "nanori": [],
       "meanings": [
         "swamp"
+      ]
+    },
+    {
+      "literal": "澪",
+      "on": [
+        "レイ"
+      ],
+      "kun": [
+        "みお"
+      ],
+      "nanori": [],
+      "meanings": [
+        "water route",
+        "shipping channel"
+      ]
+    },
+    {
+      "literal": "濕",
+      "on": [
+        "シツ",
+        "シュウ"
+      ],
+      "kun": [
+        "しめ.る",
+        "しめ.す",
+        "うるお.う",
+        "うるお.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "wet",
+        "moist",
+        "humid",
+        "damp",
+        "an illness"
       ]
     },
     {
@@ -44680,6 +51703,230 @@
       ]
     },
     {
+      "literal": "煌",
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "きらめ.く",
+        "きら.めく",
+        "かがや.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "glitter",
+        "gleam",
+        "twinkle"
+      ]
+    },
+    {
+      "literal": "燒",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "や.く",
+        "や.ける"
+      ],
+      "nanori": [
+        "やき"
+      ],
+      "meanings": [
+        "burn",
+        "bake",
+        "heat",
+        "roast"
+      ]
+    },
+    {
+      "literal": "燎",
+      "on": [
+        "リョウ"
+      ],
+      "kun": [
+        "かがりび"
+      ],
+      "nanori": [],
+      "meanings": [
+        "burn",
+        "bonfire"
+      ]
+    },
+    {
+      "literal": "燿",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "かがや.く",
+        "ひかり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "shine"
+      ]
+    },
+    {
+      "literal": "爭",
+      "on": [
+        "ソウ"
+      ],
+      "kun": [
+        "あらそ.う",
+        "いか.でか"
+      ],
+      "nanori": [],
+      "meanings": [
+        "to dispute",
+        "fight",
+        "contend",
+        "strive"
+      ]
+    },
+    {
+      "literal": "爲",
+      "on": [
+        "イ"
+      ],
+      "kun": [
+        "ため",
+        "な.る",
+        "な.す",
+        "す.る",
+        "たり",
+        "つく.る",
+        "なり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "change",
+        "be of use",
+        "reach to",
+        "do",
+        "try",
+        "practice",
+        "cost",
+        "serve as"
+      ]
+    },
+    {
+      "literal": "狹",
+      "on": [
+        "キョウ",
+        "コウ"
+      ],
+      "kun": [
+        "せま.い",
+        "せば.める",
+        "せば.まる",
+        "さ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "narrow",
+        "contract",
+        "reduce",
+        "tight",
+        "limited"
+      ]
+    },
+    {
+      "literal": "默",
+      "on": [
+        "ボク",
+        "モク"
+      ],
+      "kun": [
+        "だ.まる",
+        "もだ.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "silent",
+        "quiet",
+        "still",
+        "dark"
+      ]
+    },
+    {
+      "literal": "獸",
+      "on": [
+        "ジュウ"
+      ],
+      "kun": [
+        "けもの",
+        "けだもの"
+      ],
+      "nanori": [],
+      "meanings": [
+        "beast",
+        "animal",
+        "bestial"
+      ]
+    },
+    {
+      "literal": "珈",
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "かみかざり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "ornamental hairpin"
+      ]
+    },
+    {
+      "literal": "珀",
+      "on": [
+        "ハク"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "amber"
+      ]
+    },
+    {
+      "literal": "琥",
+      "on": [
+        "コ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "jewelled utensil"
+      ]
+    },
+    {
+      "literal": "瑶",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "たま"
+      ],
+      "nanori": [],
+      "meanings": [
+        "beautiful as a jewel"
+      ]
+    },
+    {
+      "literal": "璧",
+      "on": [
+        "ヘキ"
+      ],
+      "kun": [
+        "たま"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sphere",
+        "ball"
+      ]
+    },
+    {
       "literal": "甕",
       "on": [
         "オウ"
@@ -44710,6 +51957,42 @@
       "meanings": [
         "be resuscitated",
         "revived"
+      ]
+    },
+    {
+      "literal": "疊",
+      "on": [
+        "ジョウ",
+        "チョウ"
+      ],
+      "kun": [
+        "たた.む",
+        "たたみ",
+        "かさ.なる",
+        "かさ.ねる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "tatami",
+        "counter for tatami mats",
+        "fold",
+        "shut up",
+        "do away with"
+      ]
+    },
+    {
+      "literal": "瘍",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "かさ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "swelling",
+        "boil",
+        "tumor"
       ]
     },
     {
@@ -44749,6 +52032,31 @@
       ]
     },
     {
+      "literal": "盡",
+      "on": [
+        "ジン",
+        "サン"
+      ],
+      "kun": [
+        "つ.くす",
+        "つ.きる",
+        "つ.かす",
+        "さかづき",
+        "ことごと.く"
+      ],
+      "nanori": [
+        "まま"
+      ],
+      "meanings": [
+        "exhaust",
+        "use up",
+        "run out of",
+        "deplete",
+        "befriend",
+        "serve"
+      ]
+    },
+    {
       "literal": "盧",
       "on": [
         "ロ"
@@ -44782,6 +52090,20 @@
       ]
     },
     {
+      "literal": "眸",
+      "on": [
+        "ボウ",
+        "ム"
+      ],
+      "kun": [
+        "ひとみ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pupil of the eye"
+      ]
+    },
+    {
       "literal": "瞑",
       "on": [
         "メイ",
@@ -44804,6 +52126,23 @@
       ]
     },
     {
+      "literal": "碎",
+      "on": [
+        "サイ"
+      ],
+      "kun": [
+        "くだ.く",
+        "くだ.ける"
+      ],
+      "nanori": [],
+      "meanings": [
+        "break",
+        "smash",
+        "broken",
+        "busted"
+      ]
+    },
+    {
       "literal": "礒",
       "on": [
         "ギ",
@@ -44818,6 +52157,151 @@
         "rock",
         "beach",
         "shore"
+      ]
+    },
+    {
+      "literal": "祕",
+      "on": [
+        "ヒ"
+      ],
+      "kun": [
+        "ひ.める",
+        "かく.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "mysterious",
+        "secret",
+        "abstruse"
+      ]
+    },
+    {
+      "literal": "祿",
+      "on": [
+        "ロク"
+      ],
+      "kun": [
+        "さいわ.い",
+        "ふち"
+      ],
+      "nanori": [],
+      "meanings": [
+        "fief",
+        "allowance",
+        "pension",
+        "grant",
+        "happiness"
+      ]
+    },
+    {
+      "literal": "禪",
+      "on": [
+        "ゼン",
+        "セン"
+      ],
+      "kun": [
+        "しずか",
+        "ゆず.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "Zen Buddhism",
+        "silent meditation"
+      ]
+    },
+    {
+      "literal": "禮",
+      "on": [
+        "レイ",
+        "ライ"
+      ],
+      "kun": [],
+      "nanori": [
+        "ひろ",
+        "れ"
+      ],
+      "meanings": [
+        "social custom",
+        "manners",
+        "courtesy",
+        "rites"
+      ]
+    },
+    {
+      "literal": "稟",
+      "on": [
+        "リン",
+        "ヒン"
+      ],
+      "kun": [
+        "こめぐら"
+      ],
+      "nanori": [],
+      "meanings": [
+        "salary in rice"
+      ]
+    },
+    {
+      "literal": "稻",
+      "on": [
+        "トウ",
+        "テ"
+      ],
+      "kun": [
+        "いね",
+        "いな-"
+      ],
+      "nanori": [],
+      "meanings": [
+        "rice plant"
+      ]
+    },
+    {
+      "literal": "穗",
+      "on": [
+        "スイ"
+      ],
+      "kun": [
+        "ほ"
+      ],
+      "nanori": [
+        "お"
+      ],
+      "meanings": [
+        "ear (of grain)",
+        "head",
+        "crest (of wave)"
+      ]
+    },
+    {
+      "literal": "穰",
+      "on": [
+        "ジョウ"
+      ],
+      "kun": [
+        "わら",
+        "ゆたか"
+      ],
+      "nanori": [
+        "みのる"
+      ],
+      "meanings": [
+        "abundance"
+      ]
+    },
+    {
+      "literal": "穹",
+      "on": [
+        "キュウ",
+        "キョウ"
+      ],
+      "kun": [
+        "あめ",
+        "そら"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sky"
       ]
     },
     {
@@ -44847,6 +52331,36 @@
         "whip",
         "cane",
         "wooden writing slate"
+      ]
+    },
+    {
+      "literal": "笙",
+      "on": [
+        "ショウ",
+        "ソウ"
+      ],
+      "kun": [
+        "ふえ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "a reed instrument"
+      ]
+    },
+    {
+      "literal": "箋",
+      "on": [
+        "セン"
+      ],
+      "kun": [
+        "ふだ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "paper",
+        "label",
+        "letter",
+        "composition"
       ]
     },
     {
@@ -44889,6 +52403,31 @@
       ]
     },
     {
+      "literal": "籠",
+      "on": [
+        "ロウ",
+        "ル"
+      ],
+      "kun": [
+        "かご",
+        "こ.める",
+        "こも.る",
+        "こ.む"
+      ],
+      "nanori": [
+        "ごめ",
+        "もり"
+      ],
+      "meanings": [
+        "basket",
+        "devote oneself",
+        "seclude oneself",
+        "cage",
+        "coop",
+        "implied"
+      ]
+    },
+    {
       "literal": "簗",
       "on": [
         "リョウ"
@@ -44901,6 +52440,21 @@
         "weir",
         "fish trap",
         "(kokuji)"
+      ]
+    },
+    {
+      "literal": "粹",
+      "on": [
+        "スイ"
+      ],
+      "kun": [
+        "いき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pure",
+        "unadulterated",
+        "select"
       ]
     },
     {
@@ -44934,6 +52488,21 @@
       ]
     },
     {
+      "literal": "綸",
+      "on": [
+        "リン",
+        "カン"
+      ],
+      "kun": [
+        "いと"
+      ],
+      "nanori": [],
+      "meanings": [
+        "thread",
+        "silk cloth"
+      ]
+    },
+    {
       "literal": "緻",
       "on": [
         "チ"
@@ -44944,6 +52513,80 @@
       "nanori": [],
       "meanings": [
         "fine (i.e. not coarse)"
+      ]
+    },
+    {
+      "literal": "縣",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "か.ける"
+      ],
+      "nanori": [
+        "あがた",
+        "がた"
+      ],
+      "meanings": [
+        "county",
+        "district",
+        "subdivision"
+      ]
+    },
+    {
+      "literal": "縱",
+      "on": [
+        "ジュウ"
+      ],
+      "kun": [
+        "たて"
+      ],
+      "nanori": [],
+      "meanings": [
+        "indulge in",
+        "give free reign to"
+      ]
+    },
+    {
+      "literal": "纖",
+      "on": [
+        "セン"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "fine",
+        "slender",
+        "thin kimono"
+      ]
+    },
+    {
+      "literal": "羞",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "はじ.る",
+        "すすめ.る",
+        "は.ずかしい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "feel ashamed"
+      ]
+    },
+    {
+      "literal": "羚",
+      "on": [
+        "レイ",
+        "リョウ"
+      ],
+      "kun": [
+        "かもしか"
+      ],
+      "nanori": [],
+      "meanings": [
+        "antelope"
       ]
     },
     {
@@ -44961,6 +52604,38 @@
       "meanings": [
         "soar",
         "fly"
+      ]
+    },
+    {
+      "literal": "飜",
+      "on": [
+        "ハン",
+        "ホン"
+      ],
+      "kun": [
+        "ひるがえ.す",
+        "ひるがえ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "flip over",
+        "upset",
+        "capsize"
+      ]
+    },
+    {
+      "literal": "聽",
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "き.く",
+        "ゆる.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "careful enquiry",
+        "headstrong"
       ]
     },
     {
@@ -45015,6 +52690,41 @@
       ]
     },
     {
+      "literal": "臟",
+      "on": [
+        "ゾウ"
+      ],
+      "kun": [
+        "はらわた"
+      ],
+      "nanori": [],
+      "meanings": [
+        "viscera",
+        "bowels"
+      ]
+    },
+    {
+      "literal": "與",
+      "on": [
+        "ヨ"
+      ],
+      "kun": [
+        "あた.える",
+        "あずか.る",
+        "くみ.する",
+        "ともに"
+      ],
+      "nanori": [],
+      "meanings": [
+        "participate in",
+        "give",
+        "award",
+        "impart",
+        "provide",
+        "cause"
+      ]
+    },
+    {
       "literal": "舩",
       "on": [
         "セン"
@@ -45031,6 +52741,35 @@
       ]
     },
     {
+      "literal": "苺",
+      "on": [
+        "バイ",
+        "マイ"
+      ],
+      "kun": [
+        "いちご"
+      ],
+      "nanori": [],
+      "meanings": [
+        "strawberry"
+      ]
+    },
+    {
+      "literal": "茉",
+      "on": [
+        "マツ",
+        "バツ",
+        "マ"
+      ],
+      "kun": [],
+      "nanori": [
+        "み"
+      ],
+      "meanings": [
+        "jasmine"
+      ]
+    },
+    {
       "literal": "茗",
       "on": [
         "ミョウ",
@@ -45042,6 +52781,69 @@
       "nanori": [],
       "meanings": [
         "tea"
+      ]
+    },
+    {
+      "literal": "莊",
+      "on": [
+        "ソウ",
+        "ショウ",
+        "チャン"
+      ],
+      "kun": [
+        "ほうき",
+        "おごそ.か"
+      ],
+      "nanori": [],
+      "meanings": [
+        "broom"
+      ]
+    },
+    {
+      "literal": "莉",
+      "on": [
+        "リ",
+        "ライ",
+        "レイ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "jasmine"
+      ]
+    },
+    {
+      "literal": "菫",
+      "on": [
+        "キン"
+      ],
+      "kun": [
+        "すみれ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "the violet"
+      ]
+    },
+    {
+      "literal": "萠",
+      "on": [
+        "ホウ"
+      ],
+      "kun": [
+        "も.える",
+        "きざ.す",
+        "めばえ",
+        "きざ.し"
+      ],
+      "nanori": [
+        "めぐむ"
+      ],
+      "meanings": [
+        "show symptoms of",
+        "sprout",
+        "bud",
+        "malt"
       ]
     },
     {
@@ -45108,6 +52910,19 @@
       ]
     },
     {
+      "literal": "蕾",
+      "on": [
+        "ライ"
+      ],
+      "kun": [
+        "つぼみ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "bud (plants, mushrooms not yet opened)"
+      ]
+    },
+    {
       "literal": "藏",
       "on": [
         "ゾウ",
@@ -45148,6 +52963,23 @@
       ]
     },
     {
+      "literal": "藥",
+      "on": [
+        "ヤク"
+      ],
+      "kun": [
+        "くすり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "medicine",
+        "chemical",
+        "enamel",
+        "gunpowder",
+        "benefit"
+      ]
+    },
+    {
       "literal": "蜷",
       "on": [
         "ケン"
@@ -45161,6 +52993,23 @@
       ]
     },
     {
+      "literal": "衞",
+      "on": [
+        "エイ",
+        "エ"
+      ],
+      "kun": [
+        "まも.る"
+      ],
+      "nanori": [
+        "まもり",
+        "まもる"
+      ],
+      "meanings": [
+        "defense"
+      ]
+    },
+    {
       "literal": "袁",
       "on": [
         "エン",
@@ -45170,6 +53019,24 @@
       "nanori": [],
       "meanings": [
         "long kimono"
+      ]
+    },
+    {
+      "literal": "裝",
+      "on": [
+        "ソウ",
+        "ショウ"
+      ],
+      "kun": [
+        "よそお.う",
+        "よそお.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "dress",
+        "pretend",
+        "disguise",
+        "profess"
       ]
     },
     {
@@ -45188,6 +53055,21 @@
       ]
     },
     {
+      "literal": "覽",
+      "on": [
+        "ラン"
+      ],
+      "kun": [
+        "み.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "look at",
+        "inspect",
+        "perceive"
+      ]
+    },
+    {
       "literal": "訃",
       "on": [
         "フ"
@@ -45198,6 +53080,67 @@
       "nanori": [],
       "meanings": [
         "obituary"
+      ]
+    },
+    {
+      "literal": "詢",
+      "on": [
+        "ジュン",
+        "シュン"
+      ],
+      "kun": [
+        "はか.る",
+        "まこと"
+      ],
+      "nanori": [],
+      "meanings": [
+        "consult with"
+      ]
+    },
+    {
+      "literal": "諄",
+      "on": [
+        "シュン"
+      ],
+      "kun": [
+        "ひちくど.い",
+        "くど.い",
+        "くどくど",
+        "ねんご.ろ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "tedious"
+      ]
+    },
+    {
+      "literal": "諧",
+      "on": [
+        "カイ"
+      ],
+      "kun": [
+        "かな.う",
+        "やわ.らぐ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "harmony"
+      ]
+    },
+    {
+      "literal": "謠",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "うた.う",
+        "うた"
+      ],
+      "nanori": [],
+      "meanings": [
+        "chant (esp. Noh)",
+        "folksong",
+        "ballad"
       ]
     },
     {
@@ -45214,6 +53157,54 @@
         "extol",
         "declare",
         "express"
+      ]
+    },
+    {
+      "literal": "讓",
+      "on": [
+        "ジョウ"
+      ],
+      "kun": [
+        "ゆず.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "allow",
+        "permit",
+        "yield",
+        "concede"
+      ]
+    },
+    {
+      "literal": "貪",
+      "on": [
+        "タン",
+        "ドン",
+        "トン"
+      ],
+      "kun": [
+        "むさぼ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "covet",
+        "indulge in"
+      ]
+    },
+    {
+      "literal": "賣",
+      "on": [
+        "バイ"
+      ],
+      "kun": [
+        "う.る",
+        "う.れる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sell",
+        "betray",
+        "show off"
       ]
     },
     {
@@ -45259,6 +53250,98 @@
       ]
     },
     {
+      "literal": "踪",
+      "on": [
+        "ソウ",
+        "ショウ"
+      ],
+      "kun": [
+        "あと"
+      ],
+      "nanori": [],
+      "meanings": [
+        "remains",
+        "clue",
+        "footprint"
+      ]
+    },
+    {
+      "literal": "轉",
+      "on": [
+        "テン"
+      ],
+      "kun": [
+        "ころ.がる",
+        "ころ.げる",
+        "ころ.がす",
+        "ころ.ぶ",
+        "まろ.ぶ",
+        "うたた",
+        "うつ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "shift",
+        "move",
+        "turn"
+      ]
+    },
+    {
+      "literal": "辣",
+      "on": [
+        "ラツ"
+      ],
+      "kun": [
+        "から.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pungent",
+        "spicy",
+        "harsh",
+        "cruel",
+        "severe"
+      ]
+    },
+    {
+      "literal": "迪",
+      "on": [
+        "テキ"
+      ],
+      "kun": [
+        "みち",
+        "みちび.く",
+        "すす.む",
+        "いた.る"
+      ],
+      "nanori": [
+        "すすむ",
+        "すすみ",
+        "いたる",
+        "ゆう"
+      ],
+      "meanings": [
+        "edify",
+        "way",
+        "path"
+      ]
+    },
+    {
+      "literal": "逞",
+      "on": [
+        "テイ"
+      ],
+      "kun": [
+        "たくま.しい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sturdy",
+        "brawny",
+        "bold"
+      ]
+    },
+    {
       "literal": "鄒",
       "on": [
         "スウ",
@@ -45269,6 +53352,52 @@
       "nanori": [],
       "meanings": [
         "place name"
+      ]
+    },
+    {
+      "literal": "醉",
+      "on": [
+        "スイ"
+      ],
+      "kun": [
+        "よ.う",
+        "よ.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "get drunk",
+        "feel sick",
+        "poisoned",
+        "elated",
+        "spellbound"
+      ]
+    },
+    {
+      "literal": "釀",
+      "on": [
+        "ジョウ"
+      ],
+      "kun": [
+        "かも.す"
+      ],
+      "nanori": [],
+      "meanings": [
+        "brew",
+        "cause"
+      ]
+    },
+    {
+      "literal": "釉",
+      "on": [
+        "ユウ"
+      ],
+      "kun": [
+        "うわぐすり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "glaze",
+        "enamel"
       ]
     },
     {
@@ -45288,6 +53417,20 @@
       ]
     },
     {
+      "literal": "錮",
+      "on": [
+        "コ"
+      ],
+      "kun": [
+        "ふさ.ぐ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "confinement",
+        "to tie"
+      ]
+    },
+    {
       "literal": "鍼",
       "on": [
         "シン"
@@ -45302,6 +53445,37 @@
       ]
     },
     {
+      "literal": "鎭",
+      "on": [
+        "チン"
+      ],
+      "kun": [
+        "しず.める",
+        "しず.まる",
+        "おさえ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "ancient peace-preservation centers"
+      ]
+    },
+    {
+      "literal": "鑄",
+      "on": [
+        "チュウ",
+        "シュ",
+        "シュウ"
+      ],
+      "kun": [
+        "い.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "cast",
+        "mint"
+      ]
+    },
+    {
       "literal": "闊",
       "on": [
         "カツ"
@@ -45312,6 +53486,207 @@
       "nanori": [],
       "meanings": [
         "wide"
+      ]
+    },
+    {
+      "literal": "陷",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "おちい.る",
+        "おとしい.れる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "fall into",
+        "cave in",
+        "fall (castle)",
+        "slide into"
+      ]
+    },
+    {
+      "literal": "險",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "けわ.しい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "inaccessible place",
+        "impregnable position",
+        "steep place",
+        "sharp eyes"
+      ]
+    },
+    {
+      "literal": "雜",
+      "on": [
+        "ザツ",
+        "ゾウ"
+      ],
+      "kun": [
+        "まじ.える",
+        "まじ.る"
+      ],
+      "nanori": [
+        "さい"
+      ],
+      "meanings": [
+        "mixed",
+        "blended",
+        "mix",
+        "mingle"
+      ]
+    },
+    {
+      "literal": "靜",
+      "on": [
+        "セイ",
+        "ジョウ"
+      ],
+      "kun": [
+        "しず-",
+        "しず.か",
+        "しず.まる",
+        "しず.める"
+      ],
+      "nanori": [
+        "しずか"
+      ],
+      "meanings": [
+        "quiet"
+      ]
+    },
+    {
+      "literal": "頌",
+      "on": [
+        "ショウ",
+        "ジュ",
+        "ヨウ"
+      ],
+      "kun": [
+        "かたち",
+        "たた.える",
+        "ほめ.る"
+      ],
+      "nanori": [
+        "つぐ",
+        "のぶ"
+      ],
+      "meanings": [
+        "eulogy"
+      ]
+    },
+    {
+      "literal": "顯",
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "あきらか",
+        "あらわ.れる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "manifest",
+        "display",
+        "evident",
+        "clear"
+      ]
+    },
+    {
+      "literal": "颯",
+      "on": [
+        "サツ",
+        "ソウ"
+      ],
+      "kun": [
+        "さっ.と"
+      ],
+      "nanori": [],
+      "meanings": [
+        "sudden",
+        "quick",
+        "sound of the wind"
+      ]
+    },
+    {
+      "literal": "騷",
+      "on": [
+        "ソウ"
+      ],
+      "kun": [
+        "さわ.ぐ",
+        "うれい",
+        "さわが.しい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "harass",
+        "bother",
+        "annoy",
+        "disturb",
+        "agitate",
+        "sad",
+        "grieved"
+      ]
+    },
+    {
+      "literal": "驍",
+      "on": [
+        "ギョウ",
+        "キョウ"
+      ],
+      "kun": [
+        "たけし",
+        "つよ.い"
+      ],
+      "nanori": [
+        "いさ",
+        "いさむ",
+        "すぐる"
+      ],
+      "meanings": [
+        "strong",
+        "good horse",
+        "gallant",
+        "brave",
+        "ferocious"
+      ]
+    },
+    {
+      "literal": "驗",
+      "on": [
+        "ケン",
+        "ゲン"
+      ],
+      "kun": [
+        "あかし",
+        "しるし",
+        "ため.す",
+        "ためし"
+      ],
+      "nanori": [],
+      "meanings": [
+        "verification",
+        "effect",
+        "testing"
+      ]
+    },
+    {
+      "literal": "髮",
+      "on": [
+        "ハツ"
+      ],
+      "kun": [
+        "かみ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "hair"
       ]
     },
     {
@@ -45344,6 +53719,35 @@
       ]
     },
     {
+      "literal": "鷄",
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "にわとり",
+        "とり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "chicken"
+      ]
+    },
+    {
+      "literal": "麒",
+      "on": [
+        "キ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "Chinese unicorn",
+        "genius",
+        "giraffe",
+        "bright",
+        "shining"
+      ]
+    },
+    {
       "literal": "黎",
       "on": [
         "レイ",
@@ -45359,6 +53763,1411 @@
         "dark",
         "black",
         "many"
+      ]
+    },
+    {
+      "literal": "齊",
+      "on": [
+        "セイ",
+        "サイ"
+      ],
+      "kun": [
+        "そろ.う",
+        "ひと.しい",
+        "ひと.しく",
+        "あたる",
+        "はやい"
+      ],
+      "nanori": [
+        "ひとし"
+      ],
+      "meanings": [
+        "alike",
+        "equal",
+        "similar",
+        "Saito"
+      ]
+    },
+    {
+      "literal": "堯",
+      "on": [
+        "ギョウ"
+      ],
+      "kun": [
+        "たか.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "high",
+        "far"
+      ]
+    },
+    {
+      "literal": "槇",
+      "on": [
+        "テン",
+        "シン"
+      ],
+      "kun": [
+        "まき",
+        "こずえ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "twig",
+        "Chinese black pine"
+      ]
+    },
+    {
+      "literal": "遙",
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "はる.か"
+      ],
+      "nanori": [],
+      "meanings": [
+        "far off",
+        "distant",
+        "long ago"
+      ]
+    },
+    {
+      "literal": "凜",
+      "on": [
+        "リン"
+      ],
+      "kun": [
+        "きびし.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "cold",
+        "strict",
+        "severe"
+      ]
+    },
+    {
+      "literal": "熙",
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "たのし.む",
+        "ひか.る",
+        "ひろ.い",
+        "よろこ.ぶ",
+        "かわ.く",
+        "あきらか",
+        "ひろ.める",
+        "ひろ.まる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "bright",
+        "sunny",
+        "prosperous",
+        "merry"
+      ]
+    },
+    {
+      "literal": "俠",
+      "on": [
+        "キョウ",
+        "キャン"
+      ],
+      "kun": [
+        "おとこだて"
+      ],
+      "nanori": [],
+      "meanings": [
+        "chivalrous person",
+        "chivalry",
+        "knight-errant",
+        "tomboy"
+      ]
+    },
+    {
+      "literal": "塡",
+      "on": [
+        "テン",
+        "チン"
+      ],
+      "kun": [
+        "はま.る",
+        "うず.める",
+        "は.める",
+        "ふさ.ぐ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "fill in",
+        "fill up",
+        "make good"
+      ]
+    },
+    {
+      "literal": "摑",
+      "on": [
+        "カク"
+      ],
+      "kun": [
+        "つか.む",
+        "つか.まえる",
+        "つか.まる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "box one's ears",
+        "slap"
+      ]
+    },
+    {
+      "literal": "擊",
+      "on": [
+        "ゲキ"
+      ],
+      "kun": [
+        "う.つ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "strike",
+        "hit",
+        "beat",
+        "attack",
+        "fight"
+      ]
+    },
+    {
+      "literal": "焰",
+      "on": [
+        "エン"
+      ],
+      "kun": [
+        "ほのお"
+      ],
+      "nanori": [],
+      "meanings": [
+        "flame",
+        "blaze",
+        "glowing",
+        "blazing"
+      ]
+    },
+    {
+      "literal": "瘦",
+      "on": [
+        "ソウ",
+        "チュウ",
+        "シュウ",
+        "チュ"
+      ],
+      "kun": [
+        "やせ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "thin",
+        "emaciated",
+        "lean",
+        "meager"
+      ]
+    },
+    {
+      "literal": "禱",
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "いの.る",
+        "まつ.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pray",
+        "entreat",
+        "beg",
+        "plead",
+        "prayer"
+      ]
+    },
+    {
+      "literal": "繡",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "ぬいとり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "embroider",
+        "embroidery",
+        "ornament"
+      ]
+    },
+    {
+      "literal": "繫",
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "つな.ぐ",
+        "かか.る",
+        "か.ける"
+      ],
+      "nanori": [],
+      "meanings": [
+        "attach",
+        "connect",
+        "unite",
+        "fasten"
+      ]
+    },
+    {
+      "literal": "萊",
+      "on": [
+        "ライ",
+        "リ"
+      ],
+      "kun": [
+        "あかざ",
+        "あれわ",
+        "こうがい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "goosefoot",
+        "weed",
+        "fallow field"
+      ]
+    },
+    {
+      "literal": "蔣",
+      "on": [
+        "ショウ",
+        "ソウ"
+      ],
+      "kun": [
+        "まこも",
+        "はげ.ます"
+      ],
+      "nanori": [],
+      "meanings": [
+        "surname",
+        "hydropyrum latifalium"
+      ]
+    },
+    {
+      "literal": "蠟",
+      "on": [
+        "ロウ"
+      ],
+      "kun": [
+        "みつろう",
+        "ろうそく"
+      ],
+      "nanori": [],
+      "meanings": [
+        "wax",
+        "candle",
+        "waxy",
+        "glazed"
+      ]
+    },
+    {
+      "literal": "醬",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "ひしお"
+      ],
+      "nanori": [],
+      "meanings": [
+        "any jam-like or paste-like food"
+      ]
+    },
+    {
+      "literal": "頰",
+      "on": [
+        "キョウ"
+      ],
+      "kun": [
+        "ほお",
+        "ほほ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "cheeks",
+        "jaw"
+      ]
+    },
+    {
+      "literal": "顚",
+      "on": [
+        "テン"
+      ],
+      "kun": [
+        "いただ.き",
+        "たお.れる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "top",
+        "peak",
+        "summit",
+        "upset"
+      ]
+    },
+    {
+      "literal": "鷗",
+      "on": [
+        "オウ"
+      ],
+      "kun": [
+        "かもめ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "seagull",
+        "tern"
+      ]
+    },
+    {
+      "literal": "𠮟",
+      "on": [
+        "シツ",
+        "シチ",
+        "カ"
+      ],
+      "kun": [
+        "しか.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "scold",
+        "reprove"
+      ]
+    },
+    {
+      "literal": "俱",
+      "on": [
+        "ク"
+      ],
+      "kun": [
+        "ともに"
+      ],
+      "nanori": [],
+      "meanings": [
+        "all",
+        "together",
+        "accompany"
+      ]
+    },
+    {
+      "literal": "剝",
+      "on": [
+        "ハク",
+        "ホク"
+      ],
+      "kun": [
+        "へ.ぐ",
+        "へず.る",
+        "む.く",
+        "む.ける",
+        "は.がれる",
+        "は.ぐ",
+        "は.げる",
+        "は.がす"
+      ],
+      "nanori": [],
+      "meanings": [
+        "come off",
+        "peel",
+        "fade",
+        "discolor"
+      ]
+    },
+    {
+      "literal": "卽",
+      "on": [
+        "ソク",
+        "ショク"
+      ],
+      "kun": [
+        "つ.く",
+        "すなわ.ち",
+        "もし"
+      ],
+      "nanori": [],
+      "meanings": [
+        "promptly",
+        "namely"
+      ]
+    },
+    {
+      "literal": "吞",
+      "on": [
+        "ドン",
+        "トン",
+        "テン"
+      ],
+      "kun": [
+        "のむ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "swallow",
+        "absorb",
+        "annex",
+        "engulf"
+      ]
+    },
+    {
+      "literal": "增",
+      "on": [
+        "ゾウ",
+        "ソウ"
+      ],
+      "kun": [
+        "ます",
+        "ふえる",
+        "ふやす"
+      ],
+      "nanori": [],
+      "meanings": [
+        "increase",
+        "add to",
+        "augment"
+      ]
+    },
+    {
+      "literal": "寬",
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "ひろい",
+        "ゆるやか",
+        "くつろぐ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "broad",
+        "wide",
+        "spacious",
+        "vast"
+      ]
+    },
+    {
+      "literal": "巢",
+      "on": [
+        "ソウ"
+      ],
+      "kun": [
+        "す",
+        "す.くう"
+      ],
+      "nanori": [],
+      "meanings": [
+        "nest",
+        "living quarter in tree"
+      ]
+    },
+    {
+      "literal": "徵",
+      "on": [
+        "チョウ",
+        "チ"
+      ],
+      "kun": [
+        "しるし",
+        "めす"
+      ],
+      "nanori": [],
+      "meanings": [
+        "summon",
+        "recruit",
+        "musical note"
+      ]
+    },
+    {
+      "literal": "德",
+      "on": [
+        "トク"
+      ],
+      "kun": [
+        "おしえ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "ethics",
+        "morality",
+        "virtue"
+      ]
+    },
+    {
+      "literal": "揭",
+      "on": [
+        "ケイ",
+        "ケツ"
+      ],
+      "kun": [
+        "かかげる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "raise",
+        "lift up",
+        "surname"
+      ]
+    },
+    {
+      "literal": "晚",
+      "on": [
+        "バン"
+      ],
+      "kun": [
+        "くれ",
+        "おそい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "night",
+        "evening",
+        "late"
+      ]
+    },
+    {
+      "literal": "曆",
+      "on": [
+        "レキ",
+        "リャク"
+      ],
+      "kun": [
+        "こよみ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "calendar",
+        "era"
+      ]
+    },
+    {
+      "literal": "橫",
+      "on": [
+        "オウ",
+        "コウ"
+      ],
+      "kun": [
+        "よこ",
+        "よこたわる",
+        "よこたえる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "across",
+        "horizontal",
+        "lateral"
+      ]
+    },
+    {
+      "literal": "步",
+      "on": [
+        "ホ",
+        "ブ",
+        "フ"
+      ],
+      "kun": [
+        "あるく",
+        "あゆむ",
+        "あゆみ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "step",
+        "pace",
+        "walk",
+        "stroll"
+      ]
+    },
+    {
+      "literal": "歷",
+      "on": [],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "take place",
+        "past",
+        "history"
+      ]
+    },
+    {
+      "literal": "每",
+      "on": [
+        "マイ",
+        "バイ"
+      ],
+      "kun": [
+        "つね"
+      ],
+      "nanori": [],
+      "meanings": [
+        "every",
+        "each"
+      ]
+    },
+    {
+      "literal": "涉",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "わたる",
+        "かかわる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "ford stream",
+        "wade across"
+      ]
+    },
+    {
+      "literal": "淚",
+      "on": [
+        "ルイ",
+        "レイ"
+      ],
+      "kun": [
+        "なみだ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "tears",
+        "weep",
+        "cry"
+      ]
+    },
+    {
+      "literal": "渴",
+      "on": [
+        "カツ"
+      ],
+      "kun": [
+        "かわ.く",
+        "かわき"
+      ],
+      "nanori": [],
+      "meanings": [
+        "thirsty",
+        "parched",
+        "yearn",
+        "pine"
+      ]
+    },
+    {
+      "literal": "溫",
+      "on": [
+        "オン",
+        "ウン"
+      ],
+      "kun": [
+        "あたたか",
+        "あたためる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "lukewarm",
+        "warm",
+        "tepid",
+        "mild"
+      ]
+    },
+    {
+      "literal": "瀨",
+      "on": [
+        "ライ"
+      ],
+      "kun": [
+        "せ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "swift current",
+        "rapids"
+      ]
+    },
+    {
+      "literal": "狀",
+      "on": [
+        "ジョウ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "form",
+        "appearance",
+        "shape",
+        "official"
+      ]
+    },
+    {
+      "literal": "簞",
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "はこ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "small bamboo basket for holding"
+      ]
+    },
+    {
+      "literal": "綠",
+      "on": [
+        "リョク",
+        "ロク"
+      ],
+      "kun": [
+        "みどり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "green",
+        "chlorine"
+      ]
+    },
+    {
+      "literal": "緖",
+      "on": [
+        "ショ",
+        "チョ"
+      ],
+      "kun": [
+        "お",
+        "いとぐち"
+      ],
+      "nanori": [],
+      "meanings": [
+        "end of thread",
+        "thread",
+        "clue"
+      ]
+    },
+    {
+      "literal": "緣",
+      "on": [
+        "エン"
+      ],
+      "kun": [
+        "ふち",
+        "へり",
+        "よる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "hem",
+        "margin",
+        "reason",
+        "cause",
+        "karma",
+        "fate"
+      ]
+    },
+    {
+      "literal": "薰",
+      "on": [
+        "クン"
+      ],
+      "kun": [
+        "かおる",
+        "かおりぐさ",
+        "かおり"
+      ],
+      "nanori": [],
+      "meanings": [
+        "a medicinal herb",
+        "to cauterize"
+      ]
+    },
+    {
+      "literal": "虛",
+      "on": [
+        "キョ",
+        "コ"
+      ],
+      "kun": [
+        "むなしい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "false",
+        "worthless",
+        "empty",
+        "hollow"
+      ]
+    },
+    {
+      "literal": "蟬",
+      "on": [
+        "セン",
+        "ゼン"
+      ],
+      "kun": [
+        "せみ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "cicada",
+        "continuous"
+      ]
+    },
+    {
+      "literal": "賴",
+      "on": [
+        "ライ"
+      ],
+      "kun": [
+        "たのむ",
+        "たよる",
+        "たより"
+      ],
+      "nanori": [],
+      "meanings": [
+        "rely",
+        "depend on",
+        "accuse falsely"
+      ]
+    },
+    {
+      "literal": "郞",
+      "on": [
+        "ロウ"
+      ],
+      "kun": [
+        "おとこ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "gentleman"
+      ]
+    },
+    {
+      "literal": "錄",
+      "on": [
+        "ロク",
+        "リョ"
+      ],
+      "kun": [
+        "しるす"
+      ],
+      "nanori": [],
+      "meanings": [
+        "copy",
+        "write down",
+        "record"
+      ]
+    },
+    {
+      "literal": "鍊",
+      "on": [
+        "レン"
+      ],
+      "kun": [
+        "ねる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "smelt metals",
+        "forge",
+        "refine"
+      ]
+    },
+    {
+      "literal": "黃",
+      "on": [
+        "コウ",
+        "オウ"
+      ],
+      "kun": [
+        "き"
+      ],
+      "nanori": [],
+      "meanings": [
+        "yellow",
+        "surname"
+      ]
+    },
+    {
+      "literal": "黑",
+      "on": [
+        "コク"
+      ],
+      "kun": [
+        "くろい",
+        "くろ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "black",
+        "dark",
+        "evil",
+        "sinister"
+      ]
+    },
+    {
+      "literal": "欄",
+      "on": [],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "railing",
+        "balustrade",
+        "animal pan"
+      ]
+    },
+    {
+      "literal": "廊",
+      "on": [],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "corridor",
+        "porch",
+        "veranda"
+      ]
+    },
+    {
+      "literal": "朗",
+      "on": [
+        "ロウ"
+      ],
+      "kun": [
+        "ほが.らか"
+      ],
+      "nanori": [],
+      "meanings": [
+        "clear",
+        "bright",
+        "distinct"
+      ]
+    },
+    {
+      "literal": "虜",
+      "on": [
+        "リョ"
+      ],
+      "kun": [
+        "とりこ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "capture",
+        "imprison",
+        "seize",
+        "prison"
+      ]
+    },
+    {
+      "literal": "類",
+      "on": [],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "class",
+        "group",
+        "kind",
+        "category"
+      ]
+    },
+    {
+      "literal": "猪",
+      "on": [
+        "チョ"
+      ],
+      "kun": [
+        "いのしし",
+        "い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "pig"
+      ]
+    },
+    {
+      "literal": "神",
+      "on": [
+        "シン",
+        "ジン"
+      ],
+      "kun": [
+        "かみ",
+        "こう",
+        "たましい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "spirit"
+      ]
+    },
+    {
+      "literal": "祥",
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "さいわい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "good luck"
+      ]
+    },
+    {
+      "literal": "福",
+      "on": [
+        "フク"
+      ],
+      "kun": [
+        "さいわい",
+        "ひもろぎ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "happiness"
+      ]
+    },
+    {
+      "literal": "諸",
+      "on": [
+        "ショ"
+      ],
+      "kun": [
+        "もろ",
+        "これ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "several",
+        "many",
+        "various"
+      ]
+    },
+    {
+      "literal": "都",
+      "on": [
+        "ト",
+        "ツ"
+      ],
+      "kun": [
+        "みやこ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "capital",
+        "metropolis"
+      ]
+    },
+    {
+      "literal": "侮",
+      "on": [
+        "ブ"
+      ],
+      "kun": [
+        "あなど.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "despise",
+        "contempt"
+      ]
+    },
+    {
+      "literal": "勤",
+      "on": [
+        "キン",
+        "ゴン"
+      ],
+      "kun": [
+        "つと.まる",
+        "つと.める"
+      ],
+      "nanori": [],
+      "meanings": [
+        "work",
+        "serve"
+      ]
+    },
+    {
+      "literal": "卑",
+      "on": [
+        "ヒ"
+      ],
+      "kun": [
+        "いや.しむ",
+        "いや.しい",
+        "いや.しめる"
+      ],
+      "nanori": [],
+      "meanings": [
+        "despise",
+        "lowly",
+        "base",
+        "vulgar"
+      ]
+    },
+    {
+      "literal": "墨",
+      "on": [
+        "ボク"
+      ],
+      "kun": [
+        "すみ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "India ink",
+        "ink stick",
+        "Mexico"
+      ]
+    },
+    {
+      "literal": "層",
+      "on": [
+        "ソウ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "stratum",
+        "social class",
+        "layer"
+      ]
+    },
+    {
+      "literal": "悔",
+      "on": [
+        "カイ"
+      ],
+      "kun": [
+        "く.いる",
+        "くや.しい",
+        "く.やむ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "regret",
+        "vexing"
+      ]
+    },
+    {
+      "literal": "梅",
+      "on": [
+        "バイ"
+      ],
+      "kun": [
+        "うめ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "plum"
+      ]
+    },
+    {
+      "literal": "煮",
+      "on": [
+        "シャ"
+      ],
+      "kun": [
+        "に.る",
+        "に.える",
+        "に.やす"
+      ],
+      "nanori": [],
+      "meanings": [
+        "boil",
+        "cook"
+      ]
+    },
+    {
+      "literal": "琢",
+      "on": [
+        "タク"
+      ],
+      "kun": [
+        "みがく"
+      ],
+      "nanori": [],
+      "meanings": [
+        "polish"
+      ]
+    },
+    {
+      "literal": "碑",
+      "on": [
+        "ヒ"
+      ],
+      "kun": [
+        "いしぶみ"
+      ],
+      "nanori": [],
+      "meanings": [
+        "tombstone",
+        "monument"
+      ]
+    },
+    {
+      "literal": "祐",
+      "on": [
+        "ユウ"
+      ],
+      "kun": [
+        "たすけ",
+        "たすける"
+      ],
+      "nanori": [],
+      "meanings": [
+        "help"
+      ]
+    },
+    {
+      "literal": "祖",
+      "on": [
+        "ソ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "ancestor"
+      ]
+    },
+    {
+      "literal": "禍",
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "まが",
+        "わざわい"
+      ],
+      "nanori": [],
+      "meanings": [
+        "calamity misfortune"
+      ]
+    },
+    {
+      "literal": "穀",
+      "on": [
+        "コク"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "cereals",
+        "grain"
+      ]
+    },
+    {
+      "literal": "練",
+      "on": [
+        "コウ",
+        "レン"
+      ],
+      "kun": [
+        "ね.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "knead",
+        "train",
+        "polish"
+      ]
+    },
+    {
+      "literal": "署",
+      "on": [
+        "ショ"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "signature",
+        "govt office",
+        "police station"
+      ]
+    },
+    {
+      "literal": "者",
+      "on": [
+        "シャ"
+      ],
+      "kun": [
+        "もの"
+      ],
+      "nanori": [],
+      "meanings": [
+        "person"
+      ]
+    },
+    {
+      "literal": "臭",
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "くさ.い",
+        "にお.い"
+      ],
+      "nanori": [],
+      "meanings": [
+        "odor",
+        "ill-smelling"
+      ]
+    },
+    {
+      "literal": "賓",
+      "on": [
+        "ヒン"
+      ],
+      "kun": [],
+      "nanori": [],
+      "meanings": [
+        "guest"
+      ]
+    },
+    {
+      "literal": "贈",
+      "on": [
+        "ソウ",
+        "ゾウ"
+      ],
+      "kun": [
+        "おく.る"
+      ],
+      "nanori": [],
+      "meanings": [
+        "presents",
+        "give to"
+      ]
+    },
+    {
+      "literal": "響",
+      "on": [
+        "キョウ"
+      ],
+      "kun": [
+        "ひび.く"
+      ],
+      "nanori": [],
+      "meanings": [
+        "echo",
+        "sound",
+        "resound"
       ]
     }
   ]
