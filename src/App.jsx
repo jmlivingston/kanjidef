@@ -8,8 +8,13 @@ function formatKanjiLine(entry) {
   const nanoriValues = (entry.nanori ?? []).join(',')
   const meanings = entry.meanings.join(', ')
   const nanoriSegment = nanoriValues ? ` (名:${nanoriValues})` : ''
+  const readingSegment = [
+    onValues ? `「${onValues}」` : '',
+    kunValues || '',
+  ].join('')
+  const meaningSeparator = onValues && kunValues ? ' - ' : '- '
 
-  return `${entry.literal}「${onValues}」${kunValues} - ${meanings}${nanoriSegment}`
+  return `${entry.literal}${readingSegment}${meaningSeparator}${meanings}${nanoriSegment}`
 }
 
 function App() {
