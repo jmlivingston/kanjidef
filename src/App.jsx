@@ -98,7 +98,7 @@ function App() {
               type="text"
               value={query}
               onChange={(event) => setQuery(event.target.value)}
-              placeholder="Search..."
+              placeholder={searchByKanji ? "Search by kanji..." : "Search by reading or meaning..."}
               aria-label="Search"
               className="form-control fs-4 mb-0"
             />
