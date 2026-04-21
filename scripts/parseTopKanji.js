@@ -7,7 +7,7 @@ const __dirname = path.dirname(__filename);
 
 const INPUT_PATH = path.resolve(__dirname, 'kanjidic2-en-3.6.2.json');
 const OUTPUT_PATH = path.resolve(__dirname, '..', 'src', 'data', 'kanji.json');
-const MAX_FREQUENCY = 2500;
+const MAX_FREQUENCY = 5000;
 
 function hasFrequencyAtOrBelowThreshold(character) {
 	const frequency = character?.misc?.frequency;
@@ -18,10 +18,28 @@ function uniqueValues(values) {
 	return [...new Set(values)];
 }
 
+function getHighestNumericValue(characters, selector) {
+	let highestValue = null;
+
+	for (const character of characters) {
+		const value = selector(character);
+		if (typeof value !== 'number') {
+			continue;
+		}
+
+		if (highestValue === null || value > highestValue) {
+			highestValue = value;
+		}
+	}
+
+	return highestValue;
+}
+
 function transformCharacter(character) {
 	const groups = character?.readingMeaning?.groups ?? [];
 	const readings = groups.flatMap((group) => group?.readings ?? []);
 	const meanings = groups.flatMap((group) => group?.meanings ?? []);
+	const nanori = character?.readingMeaning?.nanori ?? [];
 
 	const jaOn = uniqueValues(
 		readings
@@ -41,10 +59,15 @@ function transformCharacter(character) {
 			.map((meaning) => meaning.value),
 	);
 
+	const nanoriValues = uniqueValues(
+		nanori.filter((value) => typeof value === 'string'),
+	);
+
 	return {
 		literal: character.literal,
 		on: jaOn,
 		kun: jaKun,
+		nanori: nanoriValues,
 		meanings: rootMeanings,
 	};
 }
@@ -52,12 +75,27 @@ function transformCharacter(character) {
 async function main() {
 	const rawJson = await readFile(INPUT_PATH, 'utf8');
 	const source = JSON.parse(rawJson);
+	const sourceCharacters = source.characters ?? [];
 
-	const filteredCharacters = (source.characters ?? [])
+	const highestFrequency = getHighestNumericValue(
+		sourceCharacters,
+		(character) => character?.misc?.frequency,
+	);
+	const highestGrade = getHighestNumericValue(
+		sourceCharacters,
+		(character) => character?.misc?.grade,
+	);
+
+	const filteredCharacters = sourceCharacters
 		.filter(hasFrequencyAtOrBelowThreshold)
 		.map(transformCharacter);
 
 	const output = {
+		meta: {
+			count: filteredCharacters.length,
+			highestFrequency,
+			highestGrade,
+		},
 		data: filteredCharacters,
 	};
 

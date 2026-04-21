@@ -1,120 +1,125 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
+import { useEffect, useMemo, useState } from 'react'
+import kanjiData from './data/kanji.json'
 import './App.css'
 
+function formatKanjiLine(entry) {
+  const onValues = entry.on.join(',')
+  const kunValues = entry.kun.join(',')
+  const nanoriValues = (entry.nanori ?? []).join(',')
+  const meanings = entry.meanings.join(', ')
+  const nanoriSegment = nanoriValues ? ` (名:${nanoriValues})` : ''
+
+  return `${entry.literal}「${onValues}」${kunValues} - ${meanings}${nanoriSegment}`
+}
+
 function App() {
-  const [count, setCount] = useState(0)
+  const [query, setQuery] = useState('')
+  const [copiedLiteral, setCopiedLiteral] = useState('')
+  const [searchByKanji, setSearchByKanji] = useState(true)
+  const [isDarkMode, setIsDarkMode] = useState(true)
+
+  useEffect(() => {
+    document.documentElement.setAttribute('data-bs-theme', isDarkMode ? 'dark' : 'light')
+  }, [isDarkMode])
+
+  const results = useMemo(() => {
+    const term = query.trim()
+    if (!term) {
+      return []
+    }
+
+    const normalizedTerm = term.toLowerCase()
+
+    return kanjiData.data.filter((entry) => {
+      if (searchByKanji) {
+        return entry.literal.includes(term)
+      }
+
+      const searchableValues = [
+        entry.literal,
+        ...entry.on,
+        ...entry.kun,
+        ...(entry.nanori ?? []),
+        ...entry.meanings,
+      ]
+      return searchableValues.some((value) => String(value).toLowerCase().includes(normalizedTerm))
+    })
+  }, [query, searchByKanji])
+
+  const handleCopy = async (entry) => {
+    const text = formatKanjiLine(entry)
+    await navigator.clipboard.writeText(text)
+    setCopiedLiteral(entry.literal)
+  }
 
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
+    <main className="container py-4">
+      <div className="row justify-content-center">
+        <div className="col-12 col-lg-10">
+          <div className="d-flex justify-content-between align-items-center mb-3">
+            <h1 className="mb-0">Kanji Search (Top {kanjiData.meta.count.toLocaleString('en-US')})</h1>
+            <div className="form-check form-switch mb-0 ms-3">
+              <input
+                id="darkModeToggle"
+                type="checkbox"
+                checked={isDarkMode}
+                onChange={(event) => setIsDarkMode(event.target.checked)}
+                className="form-check-input"
+              />
+              <label htmlFor="darkModeToggle" className="form-check-label">
+                Dark Mode
+              </label>
+            </div>
+          </div>
 
-      <div className="ticks"></div>
+          <div className="d-flex align-items-center gap-3 mb-3">
+            <input
+              type="text"
+              value={query}
+              onChange={(event) => setQuery(event.target.value)}
+              placeholder="Search..."
+              aria-label="Search"
+              className="form-control fs-4 mb-0"
+            />
 
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
+            <div className="form-check mb-0 text-nowrap">
+              <input
+                id="searchByKanji"
+                type="checkbox"
+                checked={searchByKanji}
+                onChange={(event) => setSearchByKanji(event.target.checked)}
+                className="form-check-input"
+              />
+              <label htmlFor="searchByKanji" className="form-check-label">
+                By Kanji
+              </label>
+            </div>
+          </div>
 
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
+          {query.trim() && results.length === 0 && <p className="text-muted">No matches found.</p>}
+
+          {results.length > 0 && (
+            <ul className="list-group">
+              {results.map((entry) => (
+                <li
+                  key={entry.literal}
+                  className="list-group-item d-flex flex-column flex-sm-row align-items-start align-items-sm-center gap-2"
+                >
+                  <span className="flex-grow-1 result-line fs-4">{formatKanjiLine(entry)}</span>
+                  <button
+                    type="button"
+                    onClick={() => handleCopy(entry)}
+                    className="btn btn-outline-secondary btn-sm"
+                  >
+                    {copiedLiteral === entry.literal ? 'Copied' : 'Copy'}
+                  </button>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+      </div>
+    </main>
   )
 }
 
