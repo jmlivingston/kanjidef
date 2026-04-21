@@ -17,6 +17,10 @@ function formatKanjiLine(entry) {
   return `${entry.literal}${readingSegment}${meaningSeparator}${meanings}${nanoriSegment}`
 }
 
+function getSortNumber(value) {
+  return typeof value === 'number' ? value : Number.POSITIVE_INFINITY
+}
+
 function App() {
   const [query, setQuery] = useState('')
   const [copiedLiteral, setCopiedLiteral] = useState('')
@@ -48,6 +52,18 @@ function App() {
         ...entry.meanings,
       ]
       return searchableValues.some((value) => String(value).toLowerCase().includes(normalizedTerm))
+    }).sort((left, right) => {
+      const frequencyDifference = getSortNumber(left.frequency) - getSortNumber(right.frequency)
+      if (frequencyDifference !== 0) {
+        return frequencyDifference
+      }
+
+      const gradeDifference = getSortNumber(left.grade) - getSortNumber(right.grade)
+      if (gradeDifference !== 0) {
+        return gradeDifference
+      }
+
+      return left.literal.localeCompare(right.literal)
     })
   }, [query, searchByKanji])
 

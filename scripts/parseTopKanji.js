@@ -74,6 +74,8 @@ function transformCharacter(character) {
 
 	return {
 		literal: character.literal,
+		frequency: character?.misc?.frequency ?? null,
+		grade: character?.misc?.grade ?? null,
 		on: jaOn,
 		kun: jaKun,
 		nanori: nanoriValues,
