@@ -26,10 +26,30 @@ function App() {
   const [copiedLiteral, setCopiedLiteral] = useState('')
   const [searchByKanji, setSearchByKanji] = useState(true)
   const [isDarkMode, setIsDarkMode] = useState(true)
+  const [showUpdateNotice, setShowUpdateNotice] = useState(false)
 
   useEffect(() => {
     document.documentElement.setAttribute('data-bs-theme', isDarkMode ? 'dark' : 'light')
   }, [isDarkMode])
+
+  useEffect(() => {
+    const wasUpdated = sessionStorage.getItem('pwa-updated')
+    if (!wasUpdated) {
+      return
+    }
+
+    setShowUpdateNotice(true)
+    sessionStorage.removeItem('pwa-updated')
+    sessionStorage.removeItem('pwa-refreshed')
+
+    const timeoutId = window.setTimeout(() => {
+      setShowUpdateNotice(false)
+    }, 5000)
+
+    return () => {
+      window.clearTimeout(timeoutId)
+    }
+  }, [])
 
   const results = useMemo(() => {
     const term = query.trim()
@@ -77,6 +97,22 @@ function App() {
     <main className="container py-4">
       <div className="row justify-content-center">
         <div className="col-12 col-lg-10">
+          {showUpdateNotice && (
+            <div
+              role="status"
+              aria-live="polite"
+              className="alert alert-success alert-dismissible fade show mb-3"
+            >
+              Updated to the latest version.
+              <button
+                type="button"
+                onClick={() => setShowUpdateNotice(false)}
+                aria-label="Dismiss update notice"
+                className="btn-close"
+              />
+            </div>
+          )}
+
           <div className="d-flex justify-content-between align-items-center mb-3">
             <h1 className="mb-0">Kanji (Top {kanjiData.meta.count.toLocaleString('en-US')})</h1>
             <div className="form-check form-switch mb-0 ms-3">
