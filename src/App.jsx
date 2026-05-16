@@ -94,14 +94,25 @@ function App() {
           </div>
 
           <div className="d-flex align-items-center gap-3 mb-3">
-            <input
-              type="text"
-              value={query}
-              onChange={(event) => setQuery(event.target.value)}
-              placeholder={searchByKanji ? "Search by kanji..." : "Search by reading or meaning..."}
-              aria-label="Search"
-              className="form-control fs-4 mb-0"
-            />
+            <div className="input-group input-group-lg">
+              <input
+                type="text"
+                value={query}
+                onChange={(event) => setQuery(event.target.value)}
+                placeholder={searchByKanji ? "Search by kanji..." : "Search by reading or meaning..."}
+                aria-label="Search"
+                className="form-control"
+              />
+              <button
+                type="button"
+                onClick={() => setQuery('')}
+                disabled={!query}
+                aria-label="Clear search"
+                className="btn btn-outline-secondary"
+              >
+                X
+              </button>
+            </div>
 
             <div className="form-check mb-0 text-nowrap">
               <input
